@@ -1,0 +1,2367 @@
+  bash arg: -p
+  bash arg: org.totschnig.myexpenses
+  bash arg: -v
+  bash arg: 10000
+  bash arg: -s
+  bash arg: 12298722
+:Monkey: seed=1506986933919 count=10000
+:AllowPackage: org.totschnig.myexpenses
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.MyExpenses } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(770.0,792.0)
+:Sending Touch (ACTION_UP): 0:(767.0593,780.8626)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(863.0,778.0)
+:Sending Touch (ACTION_UP): 0:(838.1349,788.01544)
+:Sending Touch (ACTION_DOWN): 0:(1070.0,1434.0)
+:Sending Touch (ACTION_UP): 0:(1057.4708,1426.0208)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(334.0,1299.0)
+:Sending Touch (ACTION_UP): 0:(318.09998,1308.3822)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,570.0)
+:Sending Touch (ACTION_UP): 0:(1023.18243,604.1896)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(13.0,1715.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1710.9192)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(720.0,1166.0)
+:Sending Touch (ACTION_UP): 0:(687.6535,1128.8667)
+:Sending Touch (ACTION_DOWN): 0:(444.0,1374.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cmp=org.totschnig.myexpenses/.activity.ContribInfoDialogActivity } in package org.totschnig.myexpenses
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(389.8884,1405.3712)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(803.0,446.0)
+:Sending Touch (ACTION_UP): 0:(783.4417,445.64288)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(847.0,1330.0)
+:Sending Touch (ACTION_UP): 0:(842.2077,1313.7362)
+:Sending Touch (ACTION_DOWN): 0:(313.0,1313.0)
+    //[calendar_time:2017-10-02 04:27:14.680  system_uptime:200989]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(334.7754,1338.7468)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(506.0,1045.0)
+:Sending Touch (ACTION_UP): 0:(465.3817,1030.4893)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1011.0,691.0)
+:Sending Touch (ACTION_UP): 0:(962.7811,656.5061)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    //[calendar_time:2017-10-02 04:27:15.829  system_uptime:202138]
+    // Sending event #200
+    //[calendar_time:2017-10-02 04:27:15.831  system_uptime:202140]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(866.0,16.0)
+:Sending Touch (ACTION_UP): 0:(865.98865,20.092394)
+:Sending Touch (ACTION_DOWN): 0:(535.0,273.0)
+:Sending Touch (ACTION_UP): 0:(576.6114,291.14594)
+:Sending Touch (ACTION_DOWN): 0:(70.0,913.0)
+:Sending Touch (ACTION_UP): 0:(54.69253,953.1971)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(858.0,849.0)
+:Sending Touch (ACTION_UP): 0:(852.89984,864.8293)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1033.0,814.0)
+:Sending Touch (ACTION_UP): 0:(1032.4547,809.4141)
+:Sending Touch (ACTION_DOWN): 0:(808.0,964.0)
+:Sending Touch (ACTION_UP): 0:(823.9107,965.1153)
+:Sending Touch (ACTION_DOWN): 0:(492.0,1623.0)
+:Sending Touch (ACTION_UP): 0:(497.99,1621.6927)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(808.0,1696.0)
+:Sending Touch (ACTION_UP): 0:(807.5617,1700.8812)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Touch (ACTION_DOWN): 0:(424.0,1648.0)
+    //[calendar_time:2017-10-02 04:27:16.817  system_uptime:203126]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(423.446,1726.6628)
+:Sending Touch (ACTION_DOWN): 0:(588.0,417.0)
+:Sending Touch (ACTION_UP): 0:(591.4832,358.07285)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(398.0,913.0)
+:Sending Touch (ACTION_UP): 0:(406.02478,915.23376)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.ExpenseEdit } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(736.0,1379.0)
+:Sending Touch (ACTION_UP): 0:(750.18506,1358.7485)
+:Sending Touch (ACTION_DOWN): 0:(939.0,4.0)
+:Sending Touch (ACTION_UP): 0:(947.1792,0.0)
+:Sending Touch (ACTION_DOWN): 0:(62.0,1583.0)
+:Sending Touch (ACTION_UP): 0:(62.15874,1559.5653)
+:Sending Touch (ACTION_DOWN): 0:(781.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(828.1114,1294.9237)
+:Sending Touch (ACTION_DOWN): 0:(275.0,349.0)
+:Sending Touch (ACTION_UP): 0:(195.30998,434.12134)
+:Sending Touch (ACTION_DOWN): 0:(124.0,1722.0)
+:Sending Touch (ACTION_UP): 0:(120.62697,1723.1171)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    //[calendar_time:2017-10-02 04:27:17.832  system_uptime:204141]
+    // Sending event #400
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(245.0,793.0)
+:Sending Touch (ACTION_UP): 0:(238.26505,799.57495)
+:Sending Touch (ACTION_DOWN): 0:(917.0,662.0)
+:Sending Touch (ACTION_UP): 0:(862.01166,603.89044)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1039.0,1316.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1277.9384)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(756.0,1280.0)
+:Sending Touch (ACTION_UP): 0:(760.68146,1262.7585)
+:Sending Touch (ACTION_DOWN): 0:(616.0,1361.0)
+:Sending Touch (ACTION_UP): 0:(629.21173,1372.4124)
+:Sending Touch (ACTION_DOWN): 0:(39.0,791.0)
+:Sending Touch (ACTION_UP): 0:(36.3109,782.4668)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.DEFAULT] dat=content://com.android.externalstorage.documents/root/09E8-3E14 typ=vnd.android.document/root cmp=com.android.documentsui/.files.FilesActivity } in package com.android.documentsui
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+    //[calendar_time:2017-10-02 04:27:18.725  system_uptime:205034]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(696.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(634.22974,1462.145)
+:Sending Touch (ACTION_DOWN): 0:(1041.0,1347.0)
+:Sending Touch (ACTION_UP): 0:(1028.398,1330.3718)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(370.0,799.0)
+:Sending Touch (ACTION_UP): 0:(383.23846,814.3694)
+:Sending Touch (ACTION_DOWN): 0:(281.0,1184.0)
+:Sending Touch (ACTION_UP): 0:(303.98325,1133.5254)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+    //[calendar_time:2017-10-02 04:27:20.638  system_uptime:206947]
+    // Sending event #600
+    //[calendar_time:2017-10-02 04:27:20.639  system_uptime:206948]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(505.0,97.0)
+:Sending Touch (ACTION_UP): 0:(509.37115,96.82145)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.Help } in package org.totschnig.myexpenses
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(39.0,199.0)
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(20.731129,226.5892)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(717.0,719.0)
+:Sending Touch (ACTION_UP): 0:(725.9131,714.0349)
+:Sending Touch (ACTION_DOWN): 0:(1038.0,906.0)
+:Sending Touch (ACTION_UP): 0:(1038.7998,925.1917)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(92.0,836.0)
+:Sending Touch (ACTION_UP): 0:(134.43614,774.8495)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+    //[calendar_time:2017-10-02 04:27:22.025  system_uptime:208333]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(144.0,1008.0)
+:Sending Touch (ACTION_UP): 0:(135.34694,1011.7517)
+:Sending Touch (ACTION_DOWN): 0:(174.0,98.0)
+:Sending Touch (ACTION_UP): 0:(230.6437,150.27737)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(832.0,629.0)
+:Sending Touch (ACTION_UP): 0:(834.54346,618.3958)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(286.0,1675.0)
+:Sending Touch (ACTION_UP): 0:(280.2052,1614.8195)
+:Sending Touch (ACTION_DOWN): 0:(83.0,1529.0)
+:Sending Touch (ACTION_UP): 0:(74.66558,1533.5112)
+:Sending Touch (ACTION_DOWN): 0:(513.0,649.0)
+:Sending Touch (ACTION_UP): 0:(515.1068,614.51483)
+:Sending Touch (ACTION_DOWN): 0:(544.0,1105.0)
+:Sending Touch (ACTION_UP): 0:(537.161,1112.9202)
+    // Rejecting start of Intent { act=com.android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(423.0,1379.0)
+:Sending Touch (ACTION_UP): 0:(436.8862,1380.6516)
+:Sending Touch (ACTION_DOWN): 0:(106.0,1439.0)
+    //[calendar_time:2017-10-02 04:27:22.944  system_uptime:209253]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(106.30915,1438.6936)
+:Sending Touch (ACTION_DOWN): 0:(356.0,160.0)
+:Sending Touch (ACTION_UP): 0:(354.0715,213.0623)
+:Sending Touch (ACTION_DOWN): 0:(404.0,786.0)
+:Sending Touch (ACTION_UP): 0:(408.4167,786.6783)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(975.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(984.2368,1702.7458)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(303.0,1672.0)
+:Sending Touch (ACTION_UP): 0:(319.8515,1672.9634)
+:Sending Touch (ACTION_DOWN): 0:(673.0,1604.0)
+:Sending Touch (ACTION_UP): 0:(681.65234,1616.9918)
+:Sending Touch (ACTION_DOWN): 0:(271.0,1424.0)
+:Sending Touch (ACTION_UP): 0:(259.02707,1432.0728)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(864.0,1734.0)
+:Sending Touch (ACTION_UP): 0:(866.3752,1729.775)
+:Sending Touch (ACTION_DOWN): 0:(1066.0,582.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,617.66113)
+:Sending Touch (ACTION_DOWN): 0:(850.0,615.0)
+:Sending Touch (ACTION_UP): 0:(846.4052,621.6198)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(634.0,1068.0)
+    //[calendar_time:2017-10-02 04:27:24.425  system_uptime:210734]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(611.42596,946.54987)
+:Sending Touch (ACTION_DOWN): 0:(533.0,350.0)
+:Sending Touch (ACTION_UP): 0:(535.30695,346.15198)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(801.0,637.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(801.7025,621.59784)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(500.0,1394.0)
+:Sending Touch (ACTION_UP): 0:(493.07608,1380.2574)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(903.0,1068.0)
+:Sending Touch (ACTION_UP): 0:(903.1397,1066.0549)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+    //[calendar_time:2017-10-02 04:27:25.309  system_uptime:211618]
+    // Sending event #1000
+:Sending Touch (ACTION_DOWN): 0:(414.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(338.69513,1735.0776)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,843.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,864.4642)
+:Sending Touch (ACTION_DOWN): 0:(398.0,942.0)
+:Sending Touch (ACTION_UP): 0:(382.076,952.8776)
+:Sending Touch (ACTION_DOWN): 0:(777.0,1642.0)
+:Sending Touch (ACTION_UP): 0:(784.7518,1651.9911)
+:Sending Touch (ACTION_DOWN): 0:(560.0,492.0)
+:Sending Touch (ACTION_UP): 0:(527.18726,452.67188)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(741.0,1082.0)
+:Sending Touch (ACTION_UP): 0:(744.0726,1075.9072)
+:Sending Touch (ACTION_DOWN): 0:(304.0,1644.0)
+:Sending Touch (ACTION_UP): 0:(289.432,1643.2401)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(478.0,1190.0)
+:Sending Touch (ACTION_UP): 0:(533.3917,1248.1746)
+:Sending Touch (ACTION_DOWN): 0:(451.0,645.0)
+    //[calendar_time:2017-10-02 04:27:26.432  system_uptime:212741]
+    // Sending event #1100
+:Sending Touch (ACTION_UP): 0:(432.8994,651.61554)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,1604.0)
+:Sending Touch (ACTION_UP): 0:(1007.5767,1565.1179)
+:Sending Touch (ACTION_DOWN): 0:(131.0,899.0)
+:Sending Touch (ACTION_UP): 0:(136.56638,898.6176)
+:Sending Touch (ACTION_DOWN): 0:(708.0,1164.0)
+:Sending Touch (ACTION_UP): 0:(721.8095,1164.2001)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(944.0,596.0)
+:Sending Touch (ACTION_UP): 0:(967.0398,583.6496)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(274.0,252.0)
+:Sending Touch (ACTION_UP): 0:(246.40314,233.0893)
+:Sending Touch (ACTION_DOWN): 0:(871.0,270.0)
+:Sending Touch (ACTION_UP): 0:(889.0464,277.6116)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(811.0,1113.0)
+:Sending Touch (ACTION_UP): 0:(822.53186,1171.1976)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(564.0,1704.0)
+:Sending Touch (ACTION_UP): 0:(565.39526,1694.5)
+    //[calendar_time:2017-10-02 04:27:27.585  system_uptime:213893]
+    // Sending event #1200
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(541.0,745.0)
+:Sending Touch (ACTION_UP): 0:(543.85284,747.06696)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.ManageCategories } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(648.0,168.0)
+:Sending Touch (ACTION_UP): 0:(644.08777,165.36838)
+:Sending Touch (ACTION_DOWN): 0:(952.0,1568.0)
+:Sending Touch (ACTION_UP): 0:(925.0735,1527.2164)
+:Sending Touch (ACTION_DOWN): 0:(526.0,642.0)
+:Sending Touch (ACTION_UP): 0:(552.9313,551.3937)
+:Sending Touch (ACTION_DOWN): 0:(661.0,855.0)
+:Sending Touch (ACTION_UP): 0:(682.9254,741.94916)
+:Sending Touch (ACTION_DOWN): 0:(82.0,1247.0)
+:Sending Touch (ACTION_UP): 0:(93.08854,1247.386)
+    // Injection Failed
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    //[calendar_time:2017-10-02 04:27:29.733  system_uptime:216042]
+    // Sending event #1300
+:Sending Touch (ACTION_DOWN): 0:(37.0,1349.0)
+:Sending Touch (ACTION_UP): 0:(11.4587145,1248.5043)
+:Sending Touch (ACTION_DOWN): 0:(497.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(502.85577,1058.5957)
+:Sending Touch (ACTION_DOWN): 0:(195.0,668.0)
+:Sending Touch (ACTION_UP): 0:(197.2984,661.1392)
+:Sending Touch (ACTION_DOWN): 0:(846.0,622.0)
+:Sending Touch (ACTION_UP): 0:(850.0396,642.0414)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(523.0,624.0)
+:Sending Touch (ACTION_UP): 0:(521.3919,593.26965)
+:Sending Touch (ACTION_DOWN): 0:(924.0,40.0)
+:Sending Touch (ACTION_UP): 0:(922.6897,55.800373)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(152.0,1298.0)
+:Sending Touch (ACTION_UP): 0:(103.08521,1339.4609)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+    //[calendar_time:2017-10-02 04:27:30.131  system_uptime:216440]
+    // Sending event #1400
+    //[calendar_time:2017-10-02 04:27:30.131  system_uptime:216440]
+    // Sending event #1400
+:Sending Touch (ACTION_DOWN): 0:(273.0,920.0)
+:Sending Touch (ACTION_UP): 0:(267.21286,922.3293)
+:Sending Touch (ACTION_DOWN): 0:(831.0,1776.0)
+:Sending Touch (ACTION_UP): 0:(814.6181,1775.4137)
+:Sending Touch (ACTION_DOWN): 0:(339.0,327.0)
+:Sending Touch (ACTION_UP): 0:(339.70798,323.59805)
+:Sending Touch (ACTION_DOWN): 0:(861.0,387.0)
+:Sending Touch (ACTION_UP): 0:(877.11163,366.56836)
+:Sending Touch (ACTION_DOWN): 0:(413.0,268.0)
+:Sending Touch (ACTION_UP): 0:(421.13364,285.17865)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(297.0,401.0)
+:Sending Touch (ACTION_UP): 0:(305.8968,396.70334)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(1052.0,1709.0)
+:Sending Touch (ACTION_UP): 0:(1050.6497,1717.2771)
+:Sending Touch (ACTION_DOWN): 0:(319.0,698.0)
+:Sending Touch (ACTION_UP): 0:(409.46246,720.7477)
+:Sending Touch (ACTION_DOWN): 0:(995.0,1429.0)
+:Sending Touch (ACTION_UP): 0:(993.16534,1428.7672)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    //[calendar_time:2017-10-02 04:27:30.368  system_uptime:216677]
+    // Sending event #1500
+:Sending Touch (ACTION_DOWN): 0:(541.0,298.0)
+:Sending Touch (ACTION_UP): 0:(541.45966,286.6073)
+:Sending Touch (ACTION_DOWN): 0:(50.0,1633.0)
+:Sending Touch (ACTION_UP): 0:(51.246178,1633.847)
+:Sending Touch (ACTION_DOWN): 0:(888.0,749.0)
+:Sending Touch (ACTION_UP): 0:(852.62537,719.51227)
+:Sending Touch (ACTION_DOWN): 0:(527.0,1239.0)
+:Sending Touch (ACTION_UP): 0:(534.6296,1239.0048)
+:Sending Touch (ACTION_DOWN): 0:(390.0,1086.0)
+:Sending Touch (ACTION_UP): 0:(287.82315,1135.1996)
+:Sending Touch (ACTION_DOWN): 0:(204.0,1643.0)
+:Sending Touch (ACTION_UP): 0:(185.19225,1641.5178)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(529.0,974.0)
+:Sending Touch (ACTION_UP): 0:(526.3763,972.0652)
+:Sending Flip keyboardOpen=true
+    // Injection Failed
+    //[calendar_time:2017-10-02 04:27:30.802  system_uptime:217111]
+    // Sending event #1600
+    //[calendar_time:2017-10-02 04:27:30.803  system_uptime:217112]
+    // Sending event #1600
+:Sending Touch (ACTION_DOWN): 0:(926.0,1119.0)
+:Sending Touch (ACTION_UP): 0:(927.53796,1123.4326)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(44.0,951.0)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.Help } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_UP): 0:(84.315796,951.7096)
+    // activityResuming(org.totschnig.myexpenses)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(608.0,1422.0)
+:Sending Touch (ACTION_UP): 0:(553.1501,1450.8584)
+:Sending Touch (ACTION_DOWN): 0:(1008.0,1369.0)
+:Sending Touch (ACTION_UP): 0:(1019.5721,1369.0541)
+:Sending Touch (ACTION_DOWN): 0:(641.0,1163.0)
+:Sending Touch (ACTION_UP): 0:(638.5821,1172.1299)
+:Sending Touch (ACTION_DOWN): 0:(369.0,1077.0)
+:Sending Touch (ACTION_UP): 0:(330.9679,1031.4244)
+:Sending Touch (ACTION_DOWN): 0:(10.0,1584.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1600.8169)
+:Sending Touch (ACTION_DOWN): 0:(833.0,734.0)
+:Sending Touch (ACTION_UP): 0:(831.0417,733.94403)
+:Sending Touch (ACTION_DOWN): 0:(825.0,1718.0)
+:Sending Touch (ACTION_UP): 0:(823.1132,1712.633)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2017-10-02 04:27:32.315  system_uptime:218623]
+    // Sending event #1700
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(868.0,1517.0)
+:Sending Touch (ACTION_UP): 0:(871.7589,1512.7422)
+:Sending Touch (ACTION_DOWN): 0:(41.0,684.0)
+:Sending Touch (ACTION_UP): 0:(60.400993,663.77075)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.Help } in package org.totschnig.myexpenses
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(286.0,533.0)
+:Sending Touch (ACTION_UP): 0:(250.25253,588.4145)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(857.0,320.0)
+:Sending Touch (ACTION_UP): 0:(875.6626,321.9139)
+:Sending Touch (ACTION_DOWN): 0:(421.0,858.0)
+:Sending Touch (ACTION_UP): 0:(424.2015,860.00684)
+:Sending Touch (ACTION_DOWN): 0:(184.0,436.0)
+:Sending Touch (ACTION_UP): 0:(186.40518,431.05725)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(824.0,64.0)
+:Sending Touch (ACTION_UP): 0:(815.6841,67.19791)
+:Sending Touch (ACTION_DOWN): 0:(252.0,465.0)
+:Sending Touch (ACTION_UP): 0:(254.8012,475.8688)
+:Sending Touch (ACTION_DOWN): 0:(426.0,645.0)
+:Sending Touch (ACTION_UP): 0:(428.4402,641.0003)
+:Sending Touch (ACTION_DOWN): 0:(336.0,497.0)
+    //[calendar_time:2017-10-02 04:27:33.819  system_uptime:220128]
+    // Sending event #1800
+:Sending Touch (ACTION_UP): 0:(406.34,391.6159)
+:Sending Touch (ACTION_DOWN): 0:(1041.0,1337.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1346.0599)
+:Sending Touch (ACTION_DOWN): 0:(243.0,1594.0)
+:Sending Touch (ACTION_UP): 0:(245.34012,1585.3743)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(840.0,741.0)
+:Sending Touch (ACTION_UP): 0:(835.6815,764.9192)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.ManageCategories } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(872.0,120.0)
+:Sending Touch (ACTION_UP): 0:(893.0529,58.525135)
+:Sending Touch (ACTION_DOWN): 0:(773.0,947.0)
+:Sending Touch (ACTION_UP): 0:(776.14343,1020.4672)
+:Sending Touch (ACTION_DOWN): 0:(694.0,1303.0)
+:Sending Touch (ACTION_UP): 0:(750.17523,1220.2936)
+:Sending Touch (ACTION_DOWN): 0:(496.0,269.0)
+:Sending Touch (ACTION_UP): 0:(498.47107,265.4959)
+:Sending Touch (ACTION_DOWN): 0:(703.0,1692.0)
+:Sending Touch (ACTION_UP): 0:(699.69934,1707.8756)
+:Sending Touch (ACTION_DOWN): 0:(690.0,158.0)
+:Sending Touch (ACTION_UP): 0:(686.7498,151.04965)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    // activityResuming(org.totschnig.myexpenses)
+    //[calendar_time:2017-10-02 04:27:35.148  system_uptime:221456]
+    // Sending event #1900
+    //[calendar_time:2017-10-02 04:27:35.148  system_uptime:221457]
+    // Sending event #1900
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(849.0,386.0)
+:Sending Touch (ACTION_UP): 0:(792.5624,418.25693)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(989.0,693.0)
+:Sending Touch (ACTION_UP): 0:(898.32153,693.1301)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(674.0,1471.0)
+:Sending Touch (ACTION_UP): 0:(685.56177,1474.8141)
+:Sending Touch (ACTION_DOWN): 0:(453.0,1670.0)
+:Sending Touch (ACTION_UP): 0:(455.46683,1677.5106)
+:Sending Touch (ACTION_DOWN): 0:(261.0,1047.0)
+:Sending Touch (ACTION_UP): 0:(261.6114,1051.3228)
+:Sending Touch (ACTION_DOWN): 0:(709.0,117.0)
+:Sending Touch (ACTION_UP): 0:(702.49677,129.00018)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    //[calendar_time:2017-10-02 04:27:35.961  system_uptime:222270]
+    // Sending event #2000
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(315.0,1272.0)
+:Sending Touch (ACTION_UP): 0:(314.7464,1239.3641)
+:Sending Touch (ACTION_DOWN): 0:(476.0,906.0)
+:Sending Touch (ACTION_UP): 0:(474.5361,906.04913)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(536.0,468.0)
+:Sending Touch (ACTION_UP): 0:(532.4423,460.14188)
+:Sending Touch (ACTION_DOWN): 0:(15.0,1662.0)
+:Sending Touch (ACTION_UP): 0:(93.217415,1594.4401)
+:Sending Touch (ACTION_DOWN): 0:(865.0,1496.0)
+:Sending Touch (ACTION_UP): 0:(860.9192,1485.9502)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+    //[calendar_time:2017-10-02 04:27:36.475  system_uptime:222784]
+    // Sending event #2100
+:Sending Touch (ACTION_DOWN): 0:(745.0,1130.0)
+:Sending Touch (ACTION_UP): 0:(759.8266,1130.0271)
+:Sending Touch (ACTION_DOWN): 0:(752.0,1178.0)
+:Sending Touch (ACTION_UP): 0:(760.318,1144.5511)
+:Sending Touch (ACTION_DOWN): 0:(587.0,782.0)
+:Sending Touch (ACTION_UP): 0:(605.82306,774.9208)
+:Sending Touch (ACTION_DOWN): 0:(861.0,66.0)
+:Sending Touch (ACTION_UP): 0:(863.2862,166.58234)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(755.0,562.0)
+:Sending Touch (ACTION_UP): 0:(762.3419,562.59436)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(637.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(736.4894,1726.7266)
+:Sending Touch (ACTION_DOWN): 0:(1062.0,674.0)
+:Sending Touch (ACTION_UP): 0:(1070.3392,663.09)
+:Sending Touch (ACTION_DOWN): 0:(986.0,272.0)
+:Sending Touch (ACTION_UP): 0:(983.5491,274.55734)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    //[calendar_time:2017-10-02 04:27:37.121  system_uptime:223429]
+    // Sending event #2200
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1021.0,416.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,542.3942)
+:Sending Touch (ACTION_DOWN): 0:(49.0,1494.0)
+:Sending Touch (ACTION_UP): 0:(45.32401,1500.1924)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(725.0,1086.0)
+:Sending Touch (ACTION_UP): 0:(728.0994,1078.6643)
+:Sending Touch (ACTION_DOWN): 0:(742.0,677.0)
+:Sending Touch (ACTION_UP): 0:(760.0299,654.958)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(334.0,817.0)
+:Sending Touch (ACTION_UP): 0:(417.38196,798.5176)
+:Sending Touch (ACTION_DOWN): 0:(279.0,279.0)
+:Sending Touch (ACTION_UP): 0:(274.1352,273.94608)
+:Sending Touch (ACTION_DOWN): 0:(262.0,1150.0)
+:Sending Touch (ACTION_UP): 0:(284.57016,1114.5931)
+    // Rejecting start of Intent { cmp=com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.PermissionsActivity } in package com.google.android.inputmethod.latin
+    //[calendar_time:2017-10-02 04:27:37.858  system_uptime:224166]
+    // Sending event #2300
+    //[calendar_time:2017-10-02 04:27:37.858  system_uptime:224167]
+    // Sending event #2300
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(732.0,1408.0)
+:Sending Touch (ACTION_UP): 0:(756.459,1362.2302)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(907.0,769.0)
+:Sending Touch (ACTION_UP): 0:(919.9942,748.1518)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.ManageCategories } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(891.0,832.0)
+:Sending Touch (ACTION_UP): 0:(885.41425,829.0913)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(883.0,1069.0)
+:Sending Touch (ACTION_UP): 0:(883.2056,1098.5845)
+    //[calendar_time:2017-10-02 04:27:38.802  system_uptime:225110]
+    // Sending event #2400
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(72.0,684.0)
+:Sending Touch (ACTION_UP): 0:(98.55902,676.3816)
+:Sending Touch (ACTION_DOWN): 0:(395.0,1360.0)
+:Sending Touch (ACTION_UP): 0:(394.903,1371.8202)
+:Sending Touch (ACTION_DOWN): 0:(777.0,56.0)
+:Sending Touch (ACTION_UP): 0:(774.90314,61.79244)
+:Sending Touch (ACTION_DOWN): 0:(339.0,637.0)
+:Sending Touch (ACTION_UP): 0:(338.2484,634.8838)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(934.0,1499.0)
+:Sending Touch (ACTION_UP): 0:(938.19055,1488.778)
+:Sending Touch (ACTION_DOWN): 0:(481.0,928.0)
+:Sending Touch (ACTION_UP): 0:(470.51953,892.8996)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(948.0,717.0)
+:Sending Touch (ACTION_UP): 0:(951.12775,728.3851)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+    //[calendar_time:2017-10-02 04:27:39.605  system_uptime:225914]
+    // Sending event #2500
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(288.0,1111.0)
+:Sending Touch (ACTION_UP): 0:(300.62427,1110.0476)
+:Sending Touch (ACTION_DOWN): 0:(837.0,25.0)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_UP): 0:(786.03125,0.0)
+:Sending Touch (ACTION_DOWN): 0:(700.0,1217.0)
+:Sending Touch (ACTION_UP): 0:(655.2013,1242.5823)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(776.0,47.0)
+:Sending Touch (ACTION_UP): 0:(792.56647,49.865345)
+:Sending Touch (ACTION_DOWN): 0:(263.0,895.0)
+:Sending Touch (ACTION_UP): 0:(276.6038,942.23376)
+:Sending Touch (ACTION_DOWN): 0:(91.0,1470.0)
+:Sending Touch (ACTION_UP): 0:(46.091724,1483.3339)
+:Sending Touch (ACTION_DOWN): 0:(1003.0,813.0)
+:Sending Touch (ACTION_UP): 0:(999.30676,782.64667)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    //[calendar_time:2017-10-02 04:27:40.713  system_uptime:227022]
+    // Sending event #2600
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(855.0,978.0)
+:Sending Touch (ACTION_UP): 0:(830.1315,991.0747)
+:Sending Touch (ACTION_DOWN): 0:(368.0,674.0)
+:Sending Touch (ACTION_UP): 0:(374.208,669.4078)
+:Sending Touch (ACTION_DOWN): 0:(823.0,1425.0)
+:Sending Touch (ACTION_UP): 0:(722.66754,1454.1885)
+:Sending Touch (ACTION_DOWN): 0:(1014.0,250.0)
+:Sending Touch (ACTION_UP): 0:(1014.7468,256.02417)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(393.0,1004.0)
+:Sending Touch (ACTION_UP): 0:(360.84912,930.1379)
+:Sending Touch (ACTION_DOWN): 0:(712.0,501.0)
+:Sending Touch (ACTION_UP): 0:(724.01117,502.25882)
+:Sending Touch (ACTION_DOWN): 0:(975.0,1090.0)
+:Sending Touch (ACTION_UP): 0:(1013.06604,1050.7837)
+:Sending Touch (ACTION_DOWN): 0:(811.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(821.2722,1201.5327)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(681.0,1753.0)
+:Sending Touch (ACTION_UP): 0:(687.44244,1752.642)
+:Sending Touch (ACTION_DOWN): 0:(878.0,1466.0)
+:Sending Touch (ACTION_UP): 0:(874.922,1476.2609)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+    //[calendar_time:2017-10-02 04:27:41.210  system_uptime:227519]
+    // Sending event #2700
+    //[calendar_time:2017-10-02 04:27:41.211  system_uptime:227519]
+    // Sending event #2700
+:Sending Touch (ACTION_DOWN): 0:(642.0,1098.0)
+:Sending Touch (ACTION_UP): 0:(620.281,1098.3816)
+:Sending Touch (ACTION_DOWN): 0:(310.0,1516.0)
+:Sending Touch (ACTION_UP): 0:(307.47955,1522.378)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(301.0,806.0)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.Help } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_UP): 0:(296.5447,814.4748)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(470.0,1497.0)
+:Sending Touch (ACTION_UP): 0:(469.92285,1484.8038)
+:Sending Touch (ACTION_DOWN): 0:(983.0,287.0)
+:Sending Touch (ACTION_UP): 0:(984.1296,283.19818)
+:Sending Touch (ACTION_DOWN): 0:(626.0,1573.0)
+:Sending Touch (ACTION_UP): 0:(579.43195,1566.0986)
+:Sending Touch (ACTION_DOWN): 0:(363.0,1715.0)
+:Sending Touch (ACTION_UP): 0:(362.7849,1730.1512)
+:Sending Touch (ACTION_DOWN): 0:(149.0,1254.0)
+:Sending Touch (ACTION_UP): 0:(134.94128,1251.4165)
+:Sending Touch (ACTION_DOWN): 0:(757.0,1729.0)
+:Sending Touch (ACTION_UP): 0:(791.38367,1754.8792)
+:Sending Touch (ACTION_DOWN): 0:(661.0,22.0)
+:Sending Touch (ACTION_UP): 0:(670.0765,29.50929)
+:Sending Touch (ACTION_DOWN): 0:(1002.0,680.0)
+:Sending Touch (ACTION_UP): 0:(1025.4197,758.6219)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(1019.0,764.0)
+:Sending Touch (ACTION_UP): 0:(1017.6179,762.9505)
+:Sending Touch (ACTION_DOWN): 0:(664.0,24.0)
+:Sending Touch (ACTION_UP): 0:(664.27155,44.86621)
+:Sending Touch (ACTION_DOWN): 0:(726.0,963.0)
+:Sending Touch (ACTION_UP): 0:(751.52844,998.3244)
+:Sending Touch (ACTION_DOWN): 0:(571.0,502.0)
+    //[calendar_time:2017-10-02 04:27:42.182  system_uptime:228491]
+    // Sending event #2800
+:Sending Touch (ACTION_UP): 0:(614.49005,510.73428)
+:Sending Touch (ACTION_DOWN): 0:(445.0,1541.0)
+:Sending Touch (ACTION_UP): 0:(431.3063,1541.8903)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(330.0,1521.0)
+:Sending Touch (ACTION_UP): 0:(331.84033,1512.6957)
+:Sending Touch (ACTION_DOWN): 0:(936.0,1021.0)
+:Sending Touch (ACTION_UP): 0:(943.9411,1023.4597)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(865.0,1755.0)
+:Sending Touch (ACTION_UP): 0:(750.04126,1738.6421)
+:Sending Touch (ACTION_DOWN): 0:(827.0,130.0)
+:Sending Touch (ACTION_UP): 0:(830.5016,131.06236)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(61.0,1356.0)
+:Sending Touch (ACTION_UP): 0:(103.52709,1380.3307)
+:Sending Touch (ACTION_DOWN): 0:(888.0,1108.0)
+    //[calendar_time:2017-10-02 04:27:42.912  system_uptime:229221]
+    // Sending event #2900
+:Sending Touch (ACTION_UP): 0:(911.23517,1121.4644)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(783.0,1571.0)
+:Sending Touch (ACTION_UP): 0:(780.04254,1559.0776)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(861.0,402.0)
+:Sending Touch (ACTION_UP): 0:(772.37665,476.3826)
+:Sending Touch (ACTION_DOWN): 0:(475.0,787.0)
+:Sending Touch (ACTION_UP): 0:(380.9454,836.3954)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(372.0,1201.0)
+:Sending Touch (ACTION_UP): 0:(424.23096,1266.8289)
+:Sending Touch (ACTION_DOWN): 0:(501.0,661.0)
+:Sending Touch (ACTION_UP): 0:(510.86688,662.39154)
+:Sending Touch (ACTION_DOWN): 0:(771.0,1380.0)
+:Sending Touch (ACTION_UP): 0:(693.4513,1414.6067)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(928.0,465.0)
+    //[calendar_time:2017-10-02 04:27:43.562  system_uptime:229870]
+    // Sending event #3000
+:Sending Touch (ACTION_UP): 0:(914.6251,487.98358)
+:Sending Touch (ACTION_DOWN): 0:(263.0,714.0)
+:Sending Touch (ACTION_UP): 0:(279.22617,733.9039)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(763.0,228.0)
+:Sending Touch (ACTION_UP): 0:(824.2735,181.50764)
+:Sending Touch (ACTION_DOWN): 0:(686.0,400.0)
+:Sending Touch (ACTION_UP): 0:(675.68414,392.75778)
+:Sending Touch (ACTION_DOWN): 0:(193.0,685.0)
+:Sending Touch (ACTION_UP): 0:(214.91759,746.61554)
+:Sending Touch (ACTION_DOWN): 0:(1047.0,680.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,789.9899)
+:Sending Flip keyboardOpen=true
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(815.0,1168.0)
+:Sending Touch (ACTION_UP): 0:(818.2509,1167.5796)
+:Sending Touch (ACTION_DOWN): 0:(146.0,1288.0)
+:Sending Touch (ACTION_UP): 0:(57.665062,1266.6011)
+:Sending Touch (ACTION_DOWN): 0:(784.0,334.0)
+:Sending Touch (ACTION_UP): 0:(721.7416,295.323)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+    //[calendar_time:2017-10-02 04:27:44.759  system_uptime:231067]
+    // Sending event #3100
+    //[calendar_time:2017-10-02 04:27:44.759  system_uptime:231068]
+    // Sending event #3100
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(555.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(554.37024,1536.1685)
+:Sending Touch (ACTION_DOWN): 0:(640.0,1293.0)
+:Sending Touch (ACTION_UP): 0:(666.6512,1344.4298)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(437.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(467.32443,1520.5472)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(53.0,455.0)
+:Sending Touch (ACTION_UP): 0:(53.42731,453.3452)
+:Sending Touch (ACTION_DOWN): 0:(267.0,933.0)
+:Sending Touch (ACTION_UP): 0:(267.95697,923.18713)
+:Sending Touch (ACTION_DOWN): 0:(939.0,1669.0)
+:Sending Touch (ACTION_UP): 0:(957.1412,1679.907)
+:Sending Touch (ACTION_DOWN): 0:(23.0,1223.0)
+:Sending Touch (ACTION_UP): 0:(37.902122,1200.9614)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+    //[calendar_time:2017-10-02 04:27:45.423  system_uptime:231731]
+    // Sending event #3200
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(816.0,1732.0)
+:Sending Touch (ACTION_UP): 0:(817.86255,1728.7832)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(282.0,742.0)
+:Sending Touch (ACTION_UP): 0:(285.87433,737.7329)
+:Sending Touch (ACTION_DOWN): 0:(719.0,1313.0)
+:Sending Touch (ACTION_UP): 0:(715.8493,1327.1039)
+:Sending Touch (ACTION_DOWN): 0:(64.0,1723.0)
+:Sending Touch (ACTION_UP): 0:(61.55896,1723.5685)
+:Sending Touch (ACTION_DOWN): 0:(381.0,896.0)
+:Sending Touch (ACTION_UP): 0:(374.9035,920.3186)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(708.0,406.0)
+:Sending Touch (ACTION_UP): 0:(701.54,397.2686)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+    //[calendar_time:2017-10-02 04:27:46.251  system_uptime:232560]
+    // Sending event #3300
+:Sending Touch (ACTION_DOWN): 0:(62.0,710.0)
+:Sending Touch (ACTION_UP): 0:(66.06077,718.91864)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(130.0,140.0)
+:Sending Touch (ACTION_UP): 0:(126.206696,139.25844)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(723.0,1337.0)
+:Sending Touch (ACTION_UP): 0:(718.69073,1322.9662)
+:Sending Touch (ACTION_DOWN): 0:(968.0,1718.0)
+:Sending Touch (ACTION_UP): 0:(949.6017,1697.1221)
+:Sending Touch (ACTION_DOWN): 0:(183.0,1439.0)
+:Sending Touch (ACTION_UP): 0:(189.1422,1433.855)
+:Sending Touch (ACTION_DOWN): 0:(803.0,1424.0)
+:Sending Touch (ACTION_UP): 0:(810.33716,1422.7786)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(213.0,263.0)
+:Sending Touch (ACTION_UP): 0:(215.39908,266.29413)
+:Sending Touch (ACTION_DOWN): 0:(1003.0,994.0)
+:Sending Touch (ACTION_UP): 0:(1059.845,993.33514)
+:Sending Touch (ACTION_DOWN): 0:(981.0,803.0)
+:Sending Touch (ACTION_UP): 0:(970.9717,816.9014)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.ManageCategories } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(108.0,1064.0)
+:Sending Touch (ACTION_UP): 0:(94.88573,1064.7257)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+    //[calendar_time:2017-10-02 04:27:47.323  system_uptime:233632]
+    // Sending event #3400
+    //[calendar_time:2017-10-02 04:27:47.324  system_uptime:233635]
+    // Sending event #3400
+:Sending Touch (ACTION_DOWN): 0:(406.0,1521.0)
+:Sending Touch (ACTION_UP): 0:(460.50156,1424.0026)
+:Sending Touch (ACTION_DOWN): 0:(419.0,231.0)
+:Sending Touch (ACTION_UP): 0:(402.40128,218.98024)
+:Sending Touch (ACTION_DOWN): 0:(388.0,1197.0)
+:Sending Touch (ACTION_UP): 0:(386.00818,1184.4775)
+:Sending Touch (ACTION_DOWN): 0:(63.0,1090.0)
+:Sending Touch (ACTION_UP): 0:(55.98373,1023.25)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(753.0,1591.0)
+:Sending Touch (ACTION_UP): 0:(745.0104,1590.2871)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(498.0,4.0)
+:Sending Touch (ACTION_UP): 0:(504.18927,5.3220787)
+:Sending Touch (ACTION_DOWN): 0:(700.0,584.0)
+:Sending Touch (ACTION_UP): 0:(708.1845,566.3885)
+:Sending Touch (ACTION_DOWN): 0:(811.0,1308.0)
+:Sending Touch (ACTION_UP): 0:(810.1875,1312.0176)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(854.0,4.0)
+:Sending Touch (ACTION_UP): 0:(864.42346,4.0843344)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+    //[calendar_time:2017-10-02 04:27:48.371  system_uptime:234680]
+    // Sending event #3500
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(371.0,217.0)
+:Sending Touch (ACTION_UP): 0:(380.77103,259.6657)
+:Sending Touch (ACTION_DOWN): 0:(480.0,338.0)
+:Sending Touch (ACTION_UP): 0:(487.16592,336.76035)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(942.0,986.0)
+:Sending Touch (ACTION_UP): 0:(942.61725,994.0982)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(69.0,1324.0)
+:Sending Touch (ACTION_UP): 0:(25.270086,1382.2534)
+:Sending Touch (ACTION_DOWN): 0:(1043.0,1129.0)
+:Sending Touch (ACTION_UP): 0:(1041.258,1123.3124)
+:Sending Touch (ACTION_DOWN): 0:(423.0,1784.0)
+:Sending Touch (ACTION_UP): 0:(418.68008,1784.0017)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+    //[calendar_time:2017-10-02 04:27:48.952  system_uptime:235261]
+    // Sending event #3600
+    //[calendar_time:2017-10-02 04:27:48.953  system_uptime:235262]
+    // Sending event #3600
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(938.0,1564.0)
+:Sending Touch (ACTION_UP): 0:(937.1556,1554.1719)
+:Sending Touch (ACTION_DOWN): 0:(979.0,249.0)
+:Sending Touch (ACTION_UP): 0:(974.84216,237.87914)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1019.0,101.0)
+:Sending Touch (ACTION_UP): 0:(1021.4868,102.59877)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.Help } in package org.totschnig.myexpenses
+    //[calendar_time:2017-10-02 04:27:50.087  system_uptime:236396]
+    // Sending event #3700
+:Sending Touch (ACTION_DOWN): 0:(716.0,1498.0)
+:Sending Touch (ACTION_UP): 0:(786.86694,1425.9937)
+:Sending Touch (ACTION_DOWN): 0:(37.0,1318.0)
+:Sending Touch (ACTION_UP): 0:(48.118755,1350.4877)
+:Sending Touch (ACTION_DOWN): 0:(966.0,1429.0)
+:Sending Touch (ACTION_UP): 0:(976.27734,1472.5513)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(643.0,1275.0)
+:Sending Touch (ACTION_UP): 0:(575.73096,1325.4346)
+:Sending Touch (ACTION_DOWN): 0:(483.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(504.8564,1291.4161)
+:Sending Touch (ACTION_DOWN): 0:(902.0,1247.0)
+:Sending Touch (ACTION_UP): 0:(814.7847,1349.5385)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(907.0,285.0)
+:Sending Touch (ACTION_UP): 0:(870.53723,292.2042)
+:Sending Touch (ACTION_DOWN): 0:(858.0,662.0)
+:Sending Touch (ACTION_UP): 0:(862.5227,663.2956)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(320.0,1002.0)
+:Sending Touch (ACTION_UP): 0:(315.27887,1014.0225)
+:Sending Touch (ACTION_DOWN): 0:(109.0,1685.0)
+:Sending Touch (ACTION_UP): 0:(98.837776,1689.7173)
+    //[calendar_time:2017-10-02 04:27:50.652  system_uptime:236960]
+    // Sending event #3800
+    //[calendar_time:2017-10-02 04:27:50.652  system_uptime:236961]
+    // Sending event #3800
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(530.0,1010.0)
+:Sending Touch (ACTION_UP): 0:(532.403,1023.7411)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(941.0,99.0)
+:Sending Touch (ACTION_UP): 0:(961.2711,96.04454)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(453.0,1429.0)
+:Sending Touch (ACTION_UP): 0:(453.30377,1433.9813)
+:Sending Touch (ACTION_DOWN): 0:(745.0,1300.0)
+:Sending Touch (ACTION_UP): 0:(732.9394,1294.4495)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(317.0,586.0)
+:Sending Touch (ACTION_UP): 0:(318.67944,573.18054)
+:Sending Touch (ACTION_DOWN): 0:(125.0,1221.0)
+:Sending Touch (ACTION_UP): 0:(138.6114,1221.8832)
+:Sending Touch (ACTION_DOWN): 0:(961.0,940.0)
+:Sending Touch (ACTION_UP): 0:(965.32074,960.5486)
+:Sending Touch (ACTION_DOWN): 0:(677.0,868.0)
+:Sending Touch (ACTION_UP): 0:(774.8584,812.142)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(722.0,1320.0)
+    //[calendar_time:2017-10-02 04:27:51.256  system_uptime:237565]
+    // Sending event #3900
+:Sending Touch (ACTION_UP): 0:(777.7799,1384.8331)
+:Sending Touch (ACTION_DOWN): 0:(96.0,1273.0)
+:Sending Touch (ACTION_UP): 0:(96.05247,1274.0183)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(509.0,1777.0)
+:Sending Touch (ACTION_UP): 0:(526.9785,1766.5665)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(1041.0,728.0)
+:Sending Touch (ACTION_UP): 0:(1040.5767,720.4845)
+:Sending Touch (ACTION_DOWN): 0:(818.0,264.0)
+:Sending Touch (ACTION_UP): 0:(814.39984,264.02686)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    //[calendar_time:2017-10-02 04:27:51.836  system_uptime:238145]
+    // Sending event #4000
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(373.0,1724.0)
+:Sending Touch (ACTION_UP): 0:(378.41815,1725.0576)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(614.0,1571.0)
+:Sending Touch (ACTION_UP): 0:(608.07825,1574.4794)
+:Sending Touch (ACTION_DOWN): 0:(458.0,16.0)
+:Sending Touch (ACTION_UP): 0:(445.15823,0.0)
+:Sending Touch (ACTION_DOWN): 0:(867.0,937.0)
+:Sending Touch (ACTION_UP): 0:(866.9221,954.3329)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1079.0,318.0)
+:Sending Touch (ACTION_UP): 0:(1069.5441,319.96478)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+    //[calendar_time:2017-10-02 04:27:52.299  system_uptime:238608]
+    // Sending event #4100
+:Sending Touch (ACTION_DOWN): 0:(291.0,1377.0)
+:Sending Touch (ACTION_UP): 0:(318.2896,1382.5813)
+:Sending Touch (ACTION_DOWN): 0:(161.0,1407.0)
+:Sending Touch (ACTION_UP): 0:(190.23419,1406.6499)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(339.0,101.0)
+:Sending Touch (ACTION_UP): 0:(368.75366,47.969715)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+    //[calendar_time:2017-10-02 04:27:52.834  system_uptime:239142]
+    // Sending event #4200
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(625.0,1792.0)
+:Sending Touch (ACTION_UP): 0:(660.8507,1794.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(431.0,401.0)
+:Sending Touch (ACTION_UP): 0:(390.59048,414.07016)
+:Sending Touch (ACTION_DOWN): 0:(724.0,1294.0)
+:Sending Touch (ACTION_UP): 0:(723.0091,1307.0779)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(78.0,32.0)
+:Sending Touch (ACTION_UP): 0:(30.94254,0.6864698)
+:Sending Touch (ACTION_DOWN): 0:(142.0,1011.0)
+:Sending Touch (ACTION_UP): 0:(114.802986,1029.013)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    //[calendar_time:2017-10-02 04:27:53.121  system_uptime:239429]
+    // Sending event #4300
+    //[calendar_time:2017-10-02 04:27:53.121  system_uptime:239430]
+    // Sending event #4300
+:Sending Touch (ACTION_DOWN): 0:(519.0,780.0)
+:Sending Touch (ACTION_UP): 0:(523.5781,782.54865)
+:Sending Touch (ACTION_DOWN): 0:(220.0,364.0)
+:Sending Touch (ACTION_UP): 0:(213.45204,359.1465)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(128.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(128.3879,1029.6583)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(784.0,1210.0)
+:Sending Touch (ACTION_UP): 0:(795.99884,1189.4674)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(838.0,130.0)
+:Sending Touch (ACTION_UP): 0:(840.5425,134.517)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(579.0,922.0)
+:Sending Touch (ACTION_UP): 0:(588.9559,921.51544)
+:Sending Touch (ACTION_DOWN): 0:(339.0,1438.0)
+:Sending Touch (ACTION_UP): 0:(333.62897,1430.9938)
+:Sending Touch (ACTION_DOWN): 0:(984.0,1044.0)
+:Sending Touch (ACTION_UP): 0:(995.3751,1035.215)
+:Sending Touch (ACTION_DOWN): 0:(398.0,1440.0)
+:Sending Touch (ACTION_UP): 0:(430.00986,1466.5876)
+:Sending Touch (ACTION_DOWN): 0:(979.0,771.0)
+    //[calendar_time:2017-10-02 04:27:54.250  system_uptime:240559]
+    // Sending event #4400
+:Sending Touch (ACTION_UP): 0:(961.25665,750.40686)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(51.0,403.0)
+:Sending Touch (ACTION_UP): 0:(0.0,423.70032)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(972.0,819.0)
+:Sending Touch (ACTION_UP): 0:(983.78546,819.8538)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(71.0,1377.0)
+:Sending Touch (ACTION_UP): 0:(90.44018,1391.9463)
+:Sending Touch (ACTION_DOWN): 0:(878.0,903.0)
+:Sending Touch (ACTION_UP): 0:(902.27454,896.9578)
+:Sending Touch (ACTION_DOWN): 0:(181.0,373.0)
+:Sending Touch (ACTION_UP): 0:(166.67194,381.32263)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    //[calendar_time:2017-10-02 04:27:55.027  system_uptime:241336]
+    // Sending event #4500
+:Sending Touch (ACTION_DOWN): 0:(391.0,1149.0)
+:Sending Touch (ACTION_UP): 0:(518.2893,1053.353)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(940.0,978.0)
+:Sending Touch (ACTION_UP): 0:(941.5261,975.0501)
+:Sending Touch (ACTION_DOWN): 0:(332.0,226.0)
+:Sending Touch (ACTION_UP): 0:(343.57,235.5074)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.docs/.app.NewMainProxyActivity } in package com.google.android.apps.docs
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(278.0,7.0)
+:Sending Touch (ACTION_UP): 0:(264.31735,115.79811)
+:Sending Touch (ACTION_DOWN): 0:(852.0,429.0)
+:Sending Touch (ACTION_UP): 0:(884.7842,417.33585)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+    //[calendar_time:2017-10-02 04:27:56.364  system_uptime:242673]
+    // Sending event #4600
+:Sending Touch (ACTION_DOWN): 0:(752.0,98.0)
+:Sending Touch (ACTION_UP): 0:(759.19855,106.270805)
+:Sending Touch (ACTION_DOWN): 0:(613.0,1015.0)
+:Sending Touch (ACTION_UP): 0:(539.3583,1033.1177)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.MyExpenses } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(989.0,629.0)
+:Sending Touch (ACTION_UP): 0:(991.7464,635.5322)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(719.0,1191.0)
+:Sending Touch (ACTION_UP): 0:(717.65845,1196.4365)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(226.0,1121.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(213.22784,1125.1523)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.ExpenseEdit } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(172.0,856.0)
+:Sending Touch (ACTION_UP): 0:(82.611755,752.37134)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+    //[calendar_time:2017-10-02 04:27:58.023  system_uptime:244332]
+    // Sending event #4700
+    //[calendar_time:2017-10-02 04:27:58.023  system_uptime:244332]
+    // Sending event #4700
+:Sending Touch (ACTION_DOWN): 0:(74.0,436.0)
+:Sending Touch (ACTION_UP): 0:(63.639107,430.60406)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1043.0,457.0)
+:Sending Touch (ACTION_UP): 0:(1016.7161,448.78043)
+:Sending Touch (ACTION_DOWN): 0:(43.0,742.0)
+:Sending Touch (ACTION_UP): 0:(38.97891,749.1858)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(586.0,106.0)
+:Sending Touch (ACTION_UP): 0:(615.56915,175.83344)
+:Sending Touch (ACTION_DOWN): 0:(119.0,1043.0)
+:Sending Touch (ACTION_UP): 0:(120.39636,1092.9791)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(173.0,183.0)
+    //[calendar_time:2017-10-02 04:27:58.581  system_uptime:244889]
+    // Sending event #4800
+:Sending Touch (ACTION_UP): 0:(145.4732,163.86584)
+    // activityResuming(org.totschnig.myexpenses)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(6.0,1017.0)
+:Sending Touch (ACTION_UP): 0:(32.305687,889.24963)
+:Sending Touch (ACTION_DOWN): 0:(473.0,1170.0)
+:Sending Touch (ACTION_UP): 0:(473.2234,1170.101)
+:Sending Touch (ACTION_DOWN): 0:(736.0,1529.0)
+:Sending Touch (ACTION_UP): 0:(732.1727,1528.2982)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(141.0,1474.0)
+:Sending Touch (ACTION_UP): 0:(136.06946,1464.84)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cmp=org.totschnig.myexpenses/.activity.ContribInfoDialogActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(376.0,1093.0)
+:Sending Touch (ACTION_UP): 0:(376.3392,1086.8744)
+:Sending Touch (ACTION_DOWN): 0:(918.0,578.0)
+:Sending Touch (ACTION_UP): 0:(929.4619,564.0463)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    //[calendar_time:2017-10-02 04:28:00.032  system_uptime:246341]
+    // Sending event #4900
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(273.0,1518.0)
+:Sending Touch (ACTION_UP): 0:(271.35446,1534.6841)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(118.0,624.0)
+:Sending Touch (ACTION_UP): 0:(88.38604,583.4813)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(502.0,739.0)
+:Sending Touch (ACTION_UP): 0:(469.184,730.24713)
+:Sending Touch (ACTION_DOWN): 0:(894.0,1594.0)
+:Sending Touch (ACTION_UP): 0:(888.41595,1592.0161)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(301.0,197.0)
+:Sending Touch (ACTION_UP): 0:(308.9785,193.02286)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(243.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(281.41217,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(73.0,640.0)
+    //[calendar_time:2017-10-02 04:28:00.480  system_uptime:246788]
+    // Sending event #5000
+:Sending Touch (ACTION_UP): 0:(17.150225,690.2321)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://myexpenses.totschnig.org/... cmp=com.android.chrome/com.google.android.apps.chrome.Main } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(757.0,1264.0)
+:Sending Touch (ACTION_UP): 0:(754.16864,1274.6965)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(532.0,605.0)
+:Sending Touch (ACTION_UP): 0:(534.52606,604.3011)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(57.0,1136.0)
+:Sending Touch (ACTION_UP): 0:(41.971424,1132.5347)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://myexpenses.totschnig.org/... cmp=com.android.chrome/com.google.android.apps.chrome.Main } in package com.android.chrome
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://myexpenses.totschnig.org/... cmp=com.android.chrome/com.google.android.apps.chrome.Main } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(331.0,976.0)
+:Sending Touch (ACTION_UP): 0:(328.31903,974.63885)
+:Sending Touch (ACTION_DOWN): 0:(417.0,760.0)
+:Sending Touch (ACTION_UP): 0:(418.434,759.01465)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(753.0,1331.0)
+:Sending Touch (ACTION_UP): 0:(755.3503,1330.2113)
+:Sending Touch (ACTION_DOWN): 0:(868.0,489.0)
+    //[calendar_time:2017-10-02 04:28:01.362  system_uptime:247671]
+    // Sending event #5100
+:Sending Touch (ACTION_UP): 0:(861.10205,443.82864)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(191.0,1104.0)
+:Sending Touch (ACTION_UP): 0:(190.96933,1105.9199)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(152.0,780.0)
+:Sending Touch (ACTION_UP): 0:(109.523605,792.19366)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(788.0,86.0)
+:Sending Touch (ACTION_UP): 0:(720.2147,29.537472)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(705.0,528.0)
+:Sending Touch (ACTION_UP): 0:(787.2244,525.60596)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2017-10-02 04:28:02.004  system_uptime:248313]
+    // Sending event #5200
+:Sending Touch (ACTION_DOWN): 0:(422.0,1697.0)
+:Sending Touch (ACTION_UP): 0:(425.08005,1694.8636)
+:Sending Touch (ACTION_DOWN): 0:(593.0,505.0)
+:Sending Touch (ACTION_UP): 0:(593.0312,495.26328)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(134.0,658.0)
+:Sending Touch (ACTION_UP): 0:(117.6291,645.3344)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(882.0,963.0)
+:Sending Touch (ACTION_UP): 0:(927.4465,925.7689)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(358.0,929.0)
+:Sending Touch (ACTION_UP): 0:(365.75278,927.8837)
+:Sending Touch (ACTION_DOWN): 0:(496.0,1344.0)
+:Sending Touch (ACTION_UP): 0:(460.61237,1379.9022)
+    //[calendar_time:2017-10-02 04:28:03.268  system_uptime:249577]
+    // Sending event #5300
+:Sending Touch (ACTION_DOWN): 0:(880.0,407.0)
+:Sending Touch (ACTION_UP): 0:(883.8083,400.6224)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,140.0)
+:Sending Touch (ACTION_UP): 0:(1055.9841,138.24463)
+:Sending Touch (ACTION_DOWN): 0:(373.0,887.0)
+:Sending Touch (ACTION_UP): 0:(372.2203,899.0429)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(707.0,1371.0)
+:Sending Touch (ACTION_UP): 0:(678.7899,1438.9952)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.MyPreferenceActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(66.0,145.0)
+:Sending Touch (ACTION_UP): 0:(61.221634,153.3287)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(452.0,1605.0)
+:Sending Touch (ACTION_UP): 0:(453.04132,1605.2578)
+    //[calendar_time:2017-10-02 04:28:04.053  system_uptime:250362]
+    // Sending event #5400
+:Sending Touch (ACTION_DOWN): 0:(730.0,907.0)
+:Sending Touch (ACTION_UP): 0:(732.22064,921.28815)
+:Sending Touch (ACTION_DOWN): 0:(740.0,1386.0)
+:Sending Touch (ACTION_UP): 0:(782.45386,1490.0822)
+:Sending Touch (ACTION_DOWN): 0:(48.0,468.0)
+:Sending Touch (ACTION_UP): 0:(53.45502,475.16684)
+    // Allowing start of Intent { act=myexpenses.intent.manage.methods cmp=org.totschnig.myexpenses/.activity.ManageMethods } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(605.0,429.0)
+:Sending Touch (ACTION_UP): 0:(677.6334,452.23364)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1058.0,382.0)
+:Sending Touch (ACTION_UP): 0:(1055.7196,375.4942)
+:Sending Touch (ACTION_DOWN): 0:(995.0,878.0)
+:Sending Touch (ACTION_UP): 0:(992.1055,876.2642)
+    // Allowing start of Intent { act=myexpenses.intent.manage.parties cmp=org.totschnig.myexpenses/.activity.ManageParties } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(209.0,1505.0)
+:Sending Touch (ACTION_UP): 0:(218.80118,1504.3857)
+:Sending Touch (ACTION_DOWN): 0:(548.0,339.0)
+    //[calendar_time:2017-10-02 04:28:05.599  system_uptime:251908]
+    // Sending event #5500
+:Sending Touch (ACTION_UP): 0:(551.8972,204.51447)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(579.0,260.0)
+:Sending Touch (ACTION_UP): 0:(580.0029,262.35205)
+:Sending Touch (ACTION_DOWN): 0:(688.0,1410.0)
+:Sending Touch (ACTION_UP): 0:(771.95874,1477.6989)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(908.0,755.0)
+:Sending Touch (ACTION_UP): 0:(907.08887,773.51746)
+:Sending Touch (ACTION_DOWN): 0:(623.0,622.0)
+:Sending Touch (ACTION_UP): 0:(630.1573,608.6386)
+:Sending Touch (ACTION_DOWN): 0:(944.0,188.0)
+:Sending Touch (ACTION_UP): 0:(953.1712,185.24632)
+:Sending Touch (ACTION_DOWN): 0:(148.0,975.0)
+:Sending Touch (ACTION_UP): 0:(159.73213,926.69617)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(977.0,862.0)
+:Sending Touch (ACTION_UP): 0:(999.256,890.5223)
+:Sending Touch (ACTION_DOWN): 0:(689.0,69.0)
+:Sending Touch (ACTION_UP): 0:(707.1956,84.02435)
+    //[calendar_time:2017-10-02 04:28:05.913  system_uptime:252221]
+    // Sending event #5600
+:Sending Touch (ACTION_DOWN): 0:(278.0,1137.0)
+:Sending Touch (ACTION_UP): 0:(285.5944,1131.3931)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(196.0,1339.0)
+:Sending Touch (ACTION_UP): 0:(304.0927,1284.1359)
+:Sending Touch (ACTION_DOWN): 0:(474.0,1027.0)
+:Sending Touch (ACTION_UP): 0:(467.50925,1031.3597)
+:Sending Touch (ACTION_DOWN): 0:(235.0,131.0)
+:Sending Touch (ACTION_UP): 0:(227.29251,125.795395)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(648.0,1582.0)
+:Sending Touch (ACTION_UP): 0:(626.86847,1577.7377)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(347.0,908.0)
+:Sending Touch (ACTION_UP): 0:(384.65173,958.0845)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(769.0,561.0)
+:Sending Touch (ACTION_UP): 0:(770.39514,582.8569)
+    //[calendar_time:2017-10-02 04:28:06.150  system_uptime:252459]
+    // Sending event #5700
+    //[calendar_time:2017-10-02 04:28:06.151  system_uptime:252459]
+    // Sending event #5700
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(741.0,551.0)
+:Sending Touch (ACTION_UP): 0:(735.2329,550.1581)
+:Sending Touch (ACTION_DOWN): 0:(956.0,1211.0)
+:Sending Touch (ACTION_UP): 0:(925.4232,1220.3488)
+    // Allowing start of Intent { act=myexpenses.intent.manage.categories cmp=org.totschnig.myexpenses/.activity.ManageCategories } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(635.0,114.0)
+:Sending Touch (ACTION_UP): 0:(663.78503,22.596115)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+    // Allowing start of Intent { act=myexpenses.intent.manage.categories cmp=org.totschnig.myexpenses/.activity.ManageCategories } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(213.0,458.0)
+:Sending Touch (ACTION_UP): 0:(226.67609,474.6312)
+:Sending Touch (ACTION_DOWN): 0:(122.0,681.0)
+:Sending Touch (ACTION_UP): 0:(126.840515,680.48224)
+:Sending Touch (ACTION_DOWN): 0:(245.0,1714.0)
+:Sending Touch (ACTION_UP): 0:(236.53052,1710.3625)
+:Sending Touch (ACTION_DOWN): 0:(36.0,176.0)
+:Sending Touch (ACTION_UP): 0:(51.064316,182.38452)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+    //[calendar_time:2017-10-02 04:28:08.100  system_uptime:254409]
+    // Sending event #5800
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(912.0,876.0)
+:Sending Touch (ACTION_UP): 0:(917.7578,892.13116)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(519.0,1273.0)
+:Sending Touch (ACTION_UP): 0:(516.84814,1276.3529)
+:Sending Touch (ACTION_DOWN): 0:(331.0,1736.0)
+:Sending Touch (ACTION_UP): 0:(323.5857,1735.6561)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.Help } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(824.0,1606.0)
+:Sending Touch (ACTION_UP): 0:(830.1661,1603.6487)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(831.0,1101.0)
+:Sending Touch (ACTION_UP): 0:(802.1123,1098.8378)
+:Sending Touch (ACTION_DOWN): 0:(833.0,537.0)
+:Sending Touch (ACTION_UP): 0:(834.68567,546.6736)
+    //[calendar_time:2017-10-02 04:28:09.097  system_uptime:255405]
+    // Sending event #5900
+:Sending Touch (ACTION_DOWN): 0:(303.0,1143.0)
+:Sending Touch (ACTION_UP): 0:(346.58972,1023.8868)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(977.0,1542.0)
+:Sending Touch (ACTION_UP): 0:(981.9449,1541.2554)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(834.0,662.0)
+:Sending Touch (ACTION_UP): 0:(823.8625,659.5931)
+:Sending Touch (ACTION_DOWN): 0:(328.0,585.0)
+:Sending Touch (ACTION_UP): 0:(337.4869,614.6097)
+    //[calendar_time:2017-10-02 04:28:09.662  system_uptime:255971]
+    // Sending event #6000
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(751.0,1247.0)
+:Sending Touch (ACTION_UP): 0:(758.93115,1246.9342)
+:Sending Touch (ACTION_DOWN): 0:(199.0,262.0)
+:Sending Touch (ACTION_UP): 0:(203.03654,258.0481)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(1078.0,422.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,442.4249)
+:Sending Touch (ACTION_DOWN): 0:(895.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(888.5978,1677.9895)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(1003.0,213.0)
+:Sending Touch (ACTION_UP): 0:(984.16724,210.99522)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    //[calendar_time:2017-10-02 04:28:10.357  system_uptime:256666]
+    // Sending event #6100
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(586.0,626.0)
+:Sending Touch (ACTION_UP): 0:(585.96643,622.69965)
+:Sending Touch (ACTION_DOWN): 0:(962.0,418.0)
+:Sending Touch (ACTION_UP): 0:(958.6887,422.6559)
+:Sending Touch (ACTION_DOWN): 0:(811.0,343.0)
+:Sending Touch (ACTION_UP): 0:(790.4269,289.76944)
+:Sending Touch (ACTION_DOWN): 0:(389.0,959.0)
+:Sending Touch (ACTION_UP): 0:(413.93542,958.1633)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(54.0,1029.0)
+:Sending Touch (ACTION_UP): 0:(178.34514,949.2059)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(279.0,310.0)
+:Sending Touch (ACTION_UP): 0:(279.80566,302.704)
+:Sending Touch (ACTION_DOWN): 0:(980.0,8.0)
+:Sending Touch (ACTION_UP): 0:(974.0883,2.101593)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    //[calendar_time:2017-10-02 04:28:11.207  system_uptime:257515]
+    // Sending event #6200
+    //[calendar_time:2017-10-02 04:28:11.207  system_uptime:257516]
+    // Sending event #6200
+:Sending Touch (ACTION_DOWN): 0:(34.0,1126.0)
+:Sending Touch (ACTION_UP): 0:(26.5816,1125.1614)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(452.0,1561.0)
+:Sending Touch (ACTION_UP): 0:(446.75214,1577.6975)
+:Sending Touch (ACTION_DOWN): 0:(469.0,488.0)
+:Sending Touch (ACTION_UP): 0:(474.27356,474.9906)
+:Sending Touch (ACTION_DOWN): 0:(196.0,1285.0)
+:Sending Touch (ACTION_UP): 0:(191.08995,1284.0289)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(200.0,1383.0)
+:Sending Touch (ACTION_UP): 0:(196.75331,1348.9946)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(994.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(993.7207,1294.9263)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(246.0,1367.0)
+:Sending Touch (ACTION_UP): 0:(278.38483,1337.0289)
+:Sending Touch (ACTION_DOWN): 0:(162.0,1035.0)
+:Sending Touch (ACTION_UP): 0:(169.76953,1047.8926)
+    //[calendar_time:2017-10-02 04:28:11.706  system_uptime:258015]
+    // Sending event #6300
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(515.0,1211.0)
+:Sending Touch (ACTION_UP): 0:(525.1207,1211.6353)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(720.0,833.0)
+:Sending Touch (ACTION_UP): 0:(729.4683,819.00696)
+:Sending Touch (ACTION_DOWN): 0:(76.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(79.35634,1367.0421)
+:Sending Touch (ACTION_DOWN): 0:(493.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(492.31876,1129.7316)
+:Sending Touch (ACTION_DOWN): 0:(993.0,340.0)
+:Sending Touch (ACTION_UP): 0:(1030.8896,341.25607)
+:Sending Touch (ACTION_DOWN): 0:(828.0,1239.0)
+:Sending Touch (ACTION_UP): 0:(859.8879,1231.577)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(986.0,193.0)
+:Sending Touch (ACTION_UP): 0:(1041.771,168.74205)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(30.0,1503.0)
+:Sending Touch (ACTION_UP): 0:(42.084698,1500.5717)
+:Sending Touch (ACTION_DOWN): 0:(712.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(676.89136,1668.3)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    //[calendar_time:2017-10-02 04:28:12.774  system_uptime:259083]
+    // Sending event #6400
+:Sending Touch (ACTION_DOWN): 0:(42.0,417.0)
+:Sending Touch (ACTION_UP): 0:(50.40213,425.88757)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(629.0,1385.0)
+:Sending Touch (ACTION_UP): 0:(613.5742,1407.9625)
+:Sending Touch (ACTION_DOWN): 0:(531.0,1395.0)
+:Sending Touch (ACTION_UP): 0:(517.4552,1394.7301)
+:Sending Touch (ACTION_DOWN): 0:(105.0,1679.0)
+:Sending Touch (ACTION_UP): 0:(105.406204,1679.6152)
+:Sending Touch (ACTION_DOWN): 0:(574.0,457.0)
+:Sending Touch (ACTION_UP): 0:(540.4959,522.87897)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(86.0,1271.0)
+:Sending Touch (ACTION_UP): 0:(82.97548,1261.0209)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.ExpenseEdit } in package org.totschnig.myexpenses
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(270.0,399.0)
+:Sending Touch (ACTION_UP): 0:(346.3156,542.21857)
+:Sending Touch (ACTION_DOWN): 0:(245.0,85.0)
+:Sending Touch (ACTION_UP): 0:(247.80225,84.49863)
+:Sending Touch (ACTION_DOWN): 0:(30.0,1520.0)
+:Sending Touch (ACTION_UP): 0:(27.714672,1520.1256)
+:Sending Touch (ACTION_DOWN): 0:(1.0,1553.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1617.6802)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(147.0,1734.0)
+:Sending Touch (ACTION_UP): 0:(145.10269,1740.2184)
+:Sending Touch (ACTION_DOWN): 0:(195.0,257.0)
+:Sending Touch (ACTION_UP): 0:(197.8283,252.21031)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    //[calendar_time:2017-10-02 04:28:13.186  system_uptime:259495]
+    // Sending event #6500
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(351.0,627.0)
+:Sending Touch (ACTION_UP): 0:(351.12872,623.498)
+:Sending Touch (ACTION_DOWN): 0:(469.0,1380.0)
+:Sending Touch (ACTION_UP): 0:(489.0638,1368.4904)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1025.0,17.0)
+:Sending Touch (ACTION_UP): 0:(1020.0229,32.356453)
+:Sending Touch (ACTION_DOWN): 0:(721.0,1134.0)
+:Sending Touch (ACTION_UP): 0:(684.7317,1266.8243)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(778.0,646.0)
+:Sending Touch (ACTION_UP): 0:(782.928,649.00586)
+:Sending Touch (ACTION_DOWN): 0:(394.0,309.0)
+:Sending Touch (ACTION_UP): 0:(388.50455,300.5956)
+:Sending Touch (ACTION_DOWN): 0:(863.0,473.0)
+:Sending Touch (ACTION_UP): 0:(877.5231,476.7582)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(957.0,1108.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_UP): 0:(958.24945,1110.5302)
+:Sending Touch (ACTION_DOWN): 0:(940.0,1498.0)
+:Sending Touch (ACTION_UP): 0:(945.79694,1485.0714)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    //[calendar_time:2017-10-02 04:28:13.939  system_uptime:260247]
+    // Sending event #6600
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(155.0,166.0)
+:Sending Touch (ACTION_UP): 0:(141.13159,171.52502)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=com.android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(631.0,296.0)
+:Sending Touch (ACTION_UP): 0:(588.7324,290.0704)
+:Sending Touch (ACTION_DOWN): 0:(172.0,485.0)
+:Sending Touch (ACTION_UP): 0:(195.97144,467.75647)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2017-10-02 04:28:14.255  system_uptime:260564]
+    // Sending event #6700
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(850.0,520.0)
+:Sending Touch (ACTION_UP): 0:(830.77435,510.51242)
+:Sending Touch (ACTION_DOWN): 0:(756.0,585.0)
+:Sending Touch (ACTION_UP): 0:(667.27997,514.1267)
+:Sending Touch (ACTION_DOWN): 0:(1049.0,18.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(711.0,1195.0)
+:Sending Touch (ACTION_UP): 0:(712.4093,1192.4664)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(777.0,556.0)
+:Sending Touch (ACTION_UP): 0:(728.3893,598.8652)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.CalculatorInput } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(427.0,1481.0)
+:Sending Touch (ACTION_UP): 0:(424.69012,1481.2494)
+:Sending Touch (ACTION_DOWN): 0:(197.0,1324.0)
+:Sending Touch (ACTION_UP): 0:(188.27353,1332.6044)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(198.0,1715.0)
+    //[calendar_time:2017-10-02 04:28:14.817  system_uptime:261126]
+    // Sending event #6800
+:Sending Touch (ACTION_UP): 0:(177.78432,1789.5405)
+:Sending Touch (ACTION_DOWN): 0:(232.0,40.0)
+:Sending Touch (ACTION_UP): 0:(237.17561,39.172333)
+:Sending Touch (ACTION_DOWN): 0:(298.0,463.0)
+:Sending Touch (ACTION_UP): 0:(295.98196,444.8604)
+:Sending Touch (ACTION_DOWN): 0:(339.0,786.0)
+:Sending Touch (ACTION_UP): 0:(332.28256,779.347)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(469.0,1002.0)
+:Sending Touch (ACTION_UP): 0:(467.85376,1003.515)
+:Sending Touch (ACTION_DOWN): 0:(285.0,947.0)
+:Sending Touch (ACTION_UP): 0:(281.2369,943.382)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(455.0,1612.0)
+:Sending Touch (ACTION_UP): 0:(457.48886,1629.1323)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.Help } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(904.0,1510.0)
+:Sending Touch (ACTION_UP): 0:(902.1469,1519.4369)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(1062.0,563.0)
+:Sending Touch (ACTION_UP): 0:(1062.4324,564.26904)
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    //[calendar_time:2017-10-02 04:28:16.183  system_uptime:262492]
+    // Sending event #6900
+:Sending Touch (ACTION_DOWN): 0:(957.0,3.0)
+:Sending Touch (ACTION_UP): 0:(951.3036,3.3804793)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(915.0,1758.0)
+:Sending Touch (ACTION_UP): 0:(910.353,1749.2819)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(261.0,738.0)
+:Sending Touch (ACTION_UP): 0:(251.98727,591.41364)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(540.0,1705.0)
+:Sending Touch (ACTION_UP): 0:(541.37573,1704.2706)
+:Sending Touch (ACTION_DOWN): 0:(564.0,1399.0)
+:Sending Touch (ACTION_UP): 0:(555.096,1396.4951)
+:Sending Touch (ACTION_DOWN): 0:(410.0,26.0)
+:Sending Touch (ACTION_UP): 0:(416.30463,14.34064)
+:Sending Touch (ACTION_DOWN): 0:(558.0,1492.0)
+:Sending Touch (ACTION_UP): 0:(552.3871,1484.3087)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    //[calendar_time:2017-10-02 04:28:17.008  system_uptime:263317]
+    // Sending event #7000
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(789.0,1625.0)
+:Sending Touch (ACTION_UP): 0:(787.8088,1613.9973)
+:Sending Touch (ACTION_DOWN): 0:(952.0,1596.0)
+:Sending Touch (ACTION_UP): 0:(916.8048,1572.8591)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(718.0,1123.0)
+:Sending Touch (ACTION_UP): 0:(702.1492,1131.1957)
+:Sending Touch (ACTION_DOWN): 0:(555.0,916.0)
+:Sending Touch (ACTION_UP): 0:(536.9778,906.6358)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(594.0,143.0)
+:Sending Touch (ACTION_UP): 0:(570.29047,147.52045)
+:Sending Touch (ACTION_DOWN): 0:(313.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(313.157,1188.3824)
+:Sending Touch (ACTION_DOWN): 0:(884.0,20.0)
+:Sending Touch (ACTION_UP): 0:(904.1011,0.0)
+:Sending Touch (ACTION_DOWN): 0:(880.0,162.0)
+    //[calendar_time:2017-10-02 04:28:17.474  system_uptime:263783]
+    // Sending event #7100
+:Sending Touch (ACTION_UP): 0:(895.9632,162.25298)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(434.0,1312.0)
+:Sending Touch (ACTION_UP): 0:(440.90903,1310.1033)
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(830.0,724.0)
+:Sending Touch (ACTION_UP): 0:(919.72723,743.721)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(938.0,267.0)
+:Sending Touch (ACTION_UP): 0:(905.14685,241.64845)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(69.0,1029.0)
+:Sending Touch (ACTION_UP): 0:(66.94355,1024.0813)
+:Sending Touch (ACTION_DOWN): 0:(630.0,1416.0)
+:Sending Touch (ACTION_UP): 0:(759.6171,1352.9813)
+:Sending Touch (ACTION_DOWN): 0:(975.0,1658.0)
+:Sending Touch (ACTION_UP): 0:(972.8965,1659.2839)
+:Sending Touch (ACTION_DOWN): 0:(516.0,954.0)
+:Sending Touch (ACTION_UP): 0:(545.84125,932.239)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(385.0,1265.0)
+:Sending Touch (ACTION_UP): 0:(387.83087,1242.656)
+    //[calendar_time:2017-10-02 04:28:18.316  system_uptime:264624]
+    // Sending event #7200
+    //[calendar_time:2017-10-02 04:28:18.316  system_uptime:264625]
+    // Sending event #7200
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(325.0,1108.0)
+:Sending Touch (ACTION_UP): 0:(339.37314,1115.5078)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(92.0,1734.0)
+:Sending Touch (ACTION_UP): 0:(70.58437,1714.063)
+:Sending Touch (ACTION_DOWN): 0:(129.0,211.0)
+:Sending Touch (ACTION_UP): 0:(127.732155,220.18504)
+:Sending Touch (ACTION_DOWN): 0:(329.0,247.0)
+:Sending Touch (ACTION_UP): 0:(399.46402,285.05835)
+:Sending Touch (ACTION_DOWN): 0:(894.0,1753.0)
+:Sending Touch (ACTION_UP): 0:(855.60535,1718.933)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(867.0,1061.0)
+:Sending Touch (ACTION_UP): 0:(850.2466,1050.8057)
+:Sending Touch (ACTION_DOWN): 0:(87.0,1135.0)
+:Sending Touch (ACTION_UP): 0:(78.676765,1134.3341)
+:Sending Touch (ACTION_DOWN): 0:(712.0,1071.0)
+:Sending Touch (ACTION_UP): 0:(718.75635,1075.638)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    //[calendar_time:2017-10-02 04:28:18.880  system_uptime:265188]
+    // Sending event #7300
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(364.0,500.0)
+:Sending Touch (ACTION_UP): 0:(348.63754,498.6394)
+:Sending Touch (ACTION_DOWN): 0:(76.0,1137.0)
+:Sending Touch (ACTION_UP): 0:(114.22533,1132.0256)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(991.0,1156.0)
+    //[calendar_time:2017-10-02 04:28:19.461  system_uptime:265770]
+    // Sending event #7400
+:Sending Touch (ACTION_UP): 0:(930.0247,1212.9679)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(29.0,826.0)
+:Sending Touch (ACTION_UP): 0:(30.001822,827.3633)
+:Sending Touch (ACTION_DOWN): 0:(920.0,149.0)
+:Sending Touch (ACTION_UP): 0:(898.264,57.077896)
+:Sending Touch (ACTION_DOWN): 0:(272.0,1718.0)
+:Sending Touch (ACTION_UP): 0:(273.66068,1732.4225)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(229.0,674.0)
+:Sending Touch (ACTION_UP): 0:(218.93855,638.4902)
+:Sending Touch (ACTION_DOWN): 0:(329.0,418.0)
+:Sending Touch (ACTION_UP): 0:(349.74527,417.68475)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(305.0,1572.0)
+:Sending Touch (ACTION_UP): 0:(249.55078,1479.8004)
+:Sending Touch (ACTION_DOWN): 0:(902.0,1336.0)
+:Sending Touch (ACTION_UP): 0:(904.943,1327.2998)
+    //[calendar_time:2017-10-02 04:28:20.220  system_uptime:266528]
+    // Sending event #7500
+:Sending Touch (ACTION_DOWN): 0:(693.0,581.0)
+:Sending Touch (ACTION_UP): 0:(704.96246,597.16876)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(96.0,508.0)
+:Sending Touch (ACTION_UP): 0:(87.75014,510.89844)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(563.0,196.0)
+:Sending Touch (ACTION_UP): 0:(566.4996,180.44128)
+:Sending Touch (ACTION_DOWN): 0:(807.0,480.0)
+:Sending Touch (ACTION_UP): 0:(808.019,495.78485)
+:Sending Touch (ACTION_DOWN): 0:(304.0,1264.0)
+:Sending Touch (ACTION_UP): 0:(311.8514,1250.6747)
+:Sending Touch (ACTION_DOWN): 0:(991.0,1368.0)
+:Sending Touch (ACTION_UP): 0:(993.98395,1367.3331)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(898.0,1467.0)
+    //[calendar_time:2017-10-02 04:28:21.615  system_uptime:267924]
+    // Sending event #7600
+:Sending Touch (ACTION_UP): 0:(994.30396,1523.3868)
+:Sending Touch (ACTION_DOWN): 0:(801.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(814.6956,1672.2059)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(404.0,1153.0)
+:Sending Touch (ACTION_UP): 0:(406.6847,1152.6465)
+:Sending Touch (ACTION_DOWN): 0:(766.0,869.0)
+:Sending Touch (ACTION_UP): 0:(761.47217,874.1978)
+:Sending Touch (ACTION_DOWN): 0:(261.0,106.0)
+:Sending Touch (ACTION_UP): 0:(230.39781,60.548256)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(676.0,295.0)
+:Sending Touch (ACTION_UP): 0:(686.8582,296.67813)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1044.0,419.0)
+:Sending Touch (ACTION_UP): 0:(988.6607,354.84854)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(337.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(340.4526,1444.8013)
+:Sending Touch (ACTION_DOWN): 0:(792.0,549.0)
+:Sending Touch (ACTION_UP): 0:(688.599,647.0913)
+:Sending Touch (ACTION_DOWN): 0:(975.0,728.0)
+:Sending Touch (ACTION_UP): 0:(974.38434,708.4863)
+    //[calendar_time:2017-10-02 04:28:22.734  system_uptime:269043]
+    // Sending event #7700
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(298.0,355.0)
+:Sending Touch (ACTION_UP): 0:(335.8118,344.0072)
+:Sending Touch (ACTION_DOWN): 0:(65.0,1737.0)
+:Sending Touch (ACTION_UP): 0:(81.07932,1728.4598)
+:Sending Touch (ACTION_DOWN): 0:(108.0,338.0)
+:Sending Touch (ACTION_UP): 0:(126.54714,332.94916)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(72.0,818.0)
+:Sending Touch (ACTION_UP): 0:(28.22126,757.6623)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    //[calendar_time:2017-10-02 04:28:23.858  system_uptime:270167]
+    // Sending event #7800
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(726.0,1120.0)
+:Sending Touch (ACTION_UP): 0:(726.57153,1113.9575)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(620.0,388.0)
+:Sending Touch (ACTION_UP): 0:(619.54816,387.23752)
+:Sending Touch (ACTION_DOWN): 0:(82.0,1304.0)
+:Sending Touch (ACTION_UP): 0:(66.92996,1292.9359)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(434.0,403.0)
+:Sending Touch (ACTION_UP): 0:(426.4522,397.82965)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(886.0,605.0)
+:Sending Touch (ACTION_UP): 0:(895.5352,601.6792)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+    //[calendar_time:2017-10-02 04:28:24.406  system_uptime:270715]
+    // Sending event #7900
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(353.0,378.0)
+:Sending Touch (ACTION_UP): 0:(351.8469,352.51917)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(525.0,141.0)
+:Sending Touch (ACTION_UP): 0:(520.43665,124.39186)
+:Sending Touch (ACTION_DOWN): 0:(1001.0,1146.0)
+:Sending Touch (ACTION_UP): 0:(995.65656,1141.3063)
+:Sending Touch (ACTION_DOWN): 0:(344.0,1611.0)
+:Sending Touch (ACTION_UP): 0:(318.86163,1597.8147)
+:Sending Touch (ACTION_DOWN): 0:(282.0,214.0)
+:Sending Touch (ACTION_UP): 0:(273.5781,214.80516)
+:Sending Touch (ACTION_DOWN): 0:(137.0,1022.0)
+:Sending Touch (ACTION_UP): 0:(140.0591,994.1161)
+:Sending Touch (ACTION_DOWN): 0:(52.0,1254.0)
+:Sending Touch (ACTION_UP): 0:(47.530045,1260.2421)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    //[calendar_time:2017-10-02 04:28:25.231  system_uptime:271540]
+    // Sending event #8000
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(587.0,111.0)
+:Sending Touch (ACTION_UP): 0:(589.21747,111.29284)
+:Sending Touch (ACTION_DOWN): 0:(939.0,670.0)
+:Sending Touch (ACTION_UP): 0:(895.1695,671.65063)
+:Sending Touch (ACTION_DOWN): 0:(439.0,1356.0)
+:Sending Touch (ACTION_UP): 0:(439.99127,1354.1619)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(431.0,1667.0)
+:Sending Touch (ACTION_UP): 0:(421.00052,1661.1489)
+:Sending Touch (ACTION_DOWN): 0:(520.0,1339.0)
+:Sending Touch (ACTION_UP): 0:(518.64874,1339.5864)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cmp=org.totschnig.myexpenses/.activity.ContribInfoDialogActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(783.0,72.0)
+:Sending Touch (ACTION_UP): 0:(783.41516,85.40468)
+:Sending Touch (ACTION_DOWN): 0:(962.0,548.0)
+:Sending Touch (ACTION_UP): 0:(968.51465,547.1032)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,1575.0)
+:Sending Touch (ACTION_UP): 0:(1001.4546,1504.1643)
+:Sending Touch (ACTION_DOWN): 0:(887.0,1102.0)
+    //[calendar_time:2017-10-02 04:28:26.848  system_uptime:273157]
+    // Sending event #8100
+:Sending Touch (ACTION_UP): 0:(984.00073,1118.6151)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(452.0,1238.0)
+:Sending Touch (ACTION_UP): 0:(461.08936,1239.9559)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(895.0,476.0)
+:Sending Touch (ACTION_UP): 0:(888.7639,487.55255)
+:Sending Touch (ACTION_DOWN): 0:(240.0,441.0)
+:Sending Touch (ACTION_UP): 0:(230.1147,455.77542)
+:Sending Touch (ACTION_DOWN): 0:(976.0,1656.0)
+:Sending Touch (ACTION_UP): 0:(974.05334,1652.3539)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+    // activityResuming(org.totschnig.myexpenses)
+:Sending Touch (ACTION_DOWN): 0:(996.0,1407.0)
+:Sending Touch (ACTION_UP): 0:(1070.6763,1419.4736)
+:Sending Touch (ACTION_DOWN): 0:(277.0,1411.0)
+:Sending Touch (ACTION_UP): 0:(257.2684,1360.8727)
+:Sending Touch (ACTION_DOWN): 0:(574.0,460.0)
+:Sending Touch (ACTION_UP): 0:(576.62225,477.25064)
+:Sending Touch (ACTION_DOWN): 0:(183.0,1407.0)
+:Sending Touch (ACTION_UP): 0:(183.00824,1407.8092)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+    //[calendar_time:2017-10-02 04:28:27.797  system_uptime:274105]
+    // Sending event #8200
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(89.0,8.0)
+:Sending Touch (ACTION_UP): 0:(60.797268,14.277424)
+:Sending Touch (ACTION_DOWN): 0:(112.0,1568.0)
+:Sending Touch (ACTION_UP): 0:(122.21776,1560.6107)
+:Sending Touch (ACTION_DOWN): 0:(483.0,606.0)
+:Sending Touch (ACTION_UP): 0:(451.94257,585.2586)
+:Sending Touch (ACTION_DOWN): 0:(19.0,729.0)
+:Sending Touch (ACTION_UP): 0:(37.29288,747.76746)
+:Sending Touch (ACTION_DOWN): 0:(914.0,1452.0)
+:Sending Touch (ACTION_UP): 0:(1006.3208,1473.0167)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    //[calendar_time:2017-10-02 04:28:28.279  system_uptime:274588]
+    // Sending event #8300
+:Sending Touch (ACTION_DOWN): 0:(942.0,930.0)
+:Sending Touch (ACTION_UP): 0:(972.33545,920.7141)
+:Sending Touch (ACTION_DOWN): 0:(337.0,346.0)
+:Sending Touch (ACTION_UP): 0:(340.033,337.6272)
+:Sending Touch (ACTION_DOWN): 0:(582.0,468.0)
+:Sending Touch (ACTION_UP): 0:(580.5531,483.64993)
+:Sending Touch (ACTION_DOWN): 0:(974.0,829.0)
+:Sending Touch (ACTION_UP): 0:(946.93207,833.22614)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(939.0,913.0)
+:Sending Touch (ACTION_UP): 0:(889.64703,1034.5033)
+:Sending Touch (ACTION_DOWN): 0:(945.0,978.0)
+:Sending Touch (ACTION_UP): 0:(925.76306,978.02313)
+:Sending Touch (ACTION_DOWN): 0:(1026.0,1424.0)
+:Sending Touch (ACTION_UP): 0:(1023.06537,1416.5007)
+:Sending Touch (ACTION_DOWN): 0:(811.0,421.0)
+    //[calendar_time:2017-10-02 04:28:29.002  system_uptime:275311]
+    // Sending event #8400
+:Sending Touch (ACTION_UP): 0:(863.47986,497.65515)
+:Sending Touch (ACTION_DOWN): 0:(714.0,1004.0)
+:Sending Touch (ACTION_UP): 0:(703.0463,992.0558)
+:Sending Touch (ACTION_DOWN): 0:(273.0,384.0)
+:Sending Touch (ACTION_UP): 0:(276.37314,374.1417)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1056.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(1047.7047,1029.8247)
+:Sending Touch (ACTION_DOWN): 0:(702.0,1546.0)
+:Sending Touch (ACTION_UP): 0:(671.46576,1535.7457)
+:Sending Touch (ACTION_DOWN): 0:(523.0,1194.0)
+:Sending Touch (ACTION_UP): 0:(520.84247,1193.3868)
+:Sending Touch (ACTION_DOWN): 0:(487.0,1024.0)
+:Sending Touch (ACTION_UP): 0:(492.1504,1026.5012)
+:Sending Touch (ACTION_DOWN): 0:(557.0,355.0)
+:Sending Touch (ACTION_UP): 0:(552.80115,354.29663)
+:Sending Touch (ACTION_DOWN): 0:(614.0,268.0)
+:Sending Touch (ACTION_UP): 0:(645.7231,260.40112)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(627.0,1414.0)
+:Sending Touch (ACTION_UP): 0:(626.2315,1429.3947)
+    // Injection Failed
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+    //[calendar_time:2017-10-02 04:28:30.530  system_uptime:276839]
+    // Sending event #8500
+    //[calendar_time:2017-10-02 04:28:30.531  system_uptime:276839]
+    // Sending event #8500
+:Sending Touch (ACTION_DOWN): 0:(829.0,648.0)
+:Sending Touch (ACTION_UP): 0:(801.69885,586.37006)
+:Sending Touch (ACTION_DOWN): 0:(773.0,1187.0)
+:Sending Touch (ACTION_UP): 0:(773.4111,1186.6721)
+:Sending Touch (ACTION_DOWN): 0:(732.0,962.0)
+:Sending Touch (ACTION_UP): 0:(730.2887,948.51666)
+:Sending Touch (ACTION_DOWN): 0:(525.0,124.0)
+:Sending Touch (ACTION_UP): 0:(498.56213,121.04164)
+:Sending Touch (ACTION_DOWN): 0:(184.0,713.0)
+:Sending Touch (ACTION_UP): 0:(179.03375,719.84625)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.chrome/com.google.android.apps.chrome.Main } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(600.0,1575.0)
+:Sending Touch (ACTION_UP): 0:(653.4001,1555.8229)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(186.0,873.0)
+:Sending Touch (ACTION_UP): 0:(137.93872,958.38696)
+:Sending Touch (ACTION_DOWN): 0:(427.0,1789.0)
+:Sending Touch (ACTION_UP): 0:(424.3304,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(401.0,1589.0)
+:Sending Touch (ACTION_UP): 0:(366.0033,1563.6471)
+:Sending Touch (ACTION_DOWN): 0:(213.0,349.0)
+:Sending Touch (ACTION_UP): 0:(199.20085,336.6736)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    //[calendar_time:2017-10-02 04:28:32.209  system_uptime:278518]
+    // Sending event #8600
+:Sending Touch (ACTION_DOWN): 0:(127.0,770.0)
+:Sending Touch (ACTION_UP): 0:(122.54328,789.716)
+:Sending Touch (ACTION_DOWN): 0:(168.0,1105.0)
+:Sending Touch (ACTION_UP): 0:(167.34375,1101.6647)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(4.0,603.0)
+:Sending Touch (ACTION_UP): 0:(0.0,701.02106)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(602.0,1118.0)
+:Sending Touch (ACTION_UP): 0:(600.5107,1119.9128)
+:Sending Touch (ACTION_DOWN): 0:(154.0,751.0)
+:Sending Touch (ACTION_UP): 0:(168.65384,772.4132)
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { cmp=com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.PermissionsActivity } in package com.google.android.inputmethod.latin
+:Sending Touch (ACTION_DOWN): 0:(1066.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(1053.279,1299.9106)
+:Sending Touch (ACTION_DOWN): 0:(680.0,174.0)
+:Sending Touch (ACTION_UP): 0:(680.0934,169.37254)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1038.0,757.0)
+:Sending Touch (ACTION_UP): 0:(1036.9353,758.9104)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,629.0)
+:Sending Touch (ACTION_UP): 0:(975.4307,625.5154)
+    //[calendar_time:2017-10-02 04:28:33.418  system_uptime:279727]
+    // Sending event #8700
+    //[calendar_time:2017-10-02 04:28:33.418  system_uptime:279727]
+    // Sending event #8700
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(287.0,235.0)
+:Sending Touch (ACTION_UP): 0:(290.007,207.59004)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(76.0,1137.0)
+:Sending Touch (ACTION_UP): 0:(132.07225,1127.469)
+:Sending Touch (ACTION_DOWN): 0:(68.0,1086.0)
+:Sending Touch (ACTION_UP): 0:(46.86673,1166.4784)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(412.0,471.0)
+:Sending Touch (ACTION_UP): 0:(443.2942,502.91312)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(219.0,1641.0)
+:Sending Touch (ACTION_UP): 0:(140.0244,1671.3276)
+:Sending Touch (ACTION_DOWN): 0:(337.0,1310.0)
+:Sending Touch (ACTION_UP): 0:(261.4549,1210.1874)
+    //[calendar_time:2017-10-02 04:28:33.873  system_uptime:280182]
+    // Sending event #8800
+    //[calendar_time:2017-10-02 04:28:33.873  system_uptime:280182]
+    // Sending event #8800
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1045.0,1787.0)
+:Sending Touch (ACTION_UP): 0:(1054.4447,1777.2133)
+:Sending Touch (ACTION_DOWN): 0:(458.0,1522.0)
+:Sending Touch (ACTION_UP): 0:(374.6645,1529.297)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(25.0,1384.0)
+:Sending Touch (ACTION_UP): 0:(112.747055,1389.7393)
+:Sending Touch (ACTION_DOWN): 0:(439.0,24.0)
+:Sending Touch (ACTION_UP): 0:(433.37015,47.074074)
+:Sending Touch (ACTION_DOWN): 0:(293.0,1043.0)
+:Sending Touch (ACTION_UP): 0:(294.42078,1041.7278)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.MyExpenses } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    // activityResuming(org.totschnig.myexpenses)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(371.0,446.0)
+    //[calendar_time:2017-10-02 04:28:34.741  system_uptime:281052]
+    // Sending event #8900
+:Sending Touch (ACTION_UP): 0:(295.16226,427.42963)
+:Sending Touch (ACTION_DOWN): 0:(361.0,1224.0)
+:Sending Touch (ACTION_UP): 0:(258.41608,1253.9872)
+:Sending Touch (ACTION_DOWN): 0:(358.0,300.0)
+:Sending Touch (ACTION_UP): 0:(361.7966,318.47885)
+:Sending Touch (ACTION_DOWN): 0:(893.0,681.0)
+:Sending Touch (ACTION_UP): 0:(849.1678,696.2985)
+:Sending Touch (ACTION_DOWN): 0:(788.0,166.0)
+:Sending Touch (ACTION_UP): 0:(766.83844,141.40495)
+:Sending Touch (ACTION_DOWN): 0:(583.0,1362.0)
+:Sending Touch (ACTION_UP): 0:(577.2208,1363.0658)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(767.0,297.0)
+:Sending Touch (ACTION_UP): 0:(770.8811,302.03574)
+:Sending Touch (ACTION_DOWN): 0:(601.0,302.0)
+:Sending Touch (ACTION_UP): 0:(600.5852,288.20306)
+:Sending Touch (ACTION_DOWN): 0:(22.0,229.0)
+:Sending Touch (ACTION_UP): 0:(25.759382,227.76808)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+    //[calendar_time:2017-10-02 04:28:35.800  system_uptime:282108]
+    // Sending event #9000
+    //[calendar_time:2017-10-02 04:28:35.800  system_uptime:282109]
+    // Sending event #9000
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(419.0,554.0)
+:Sending Touch (ACTION_UP): 0:(430.9423,535.69464)
+:Sending Touch (ACTION_DOWN): 0:(151.0,931.0)
+:Sending Touch (ACTION_UP): 0:(149.93414,931.06024)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(391.0,1244.0)
+:Sending Touch (ACTION_UP): 0:(328.29932,1205.1898)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(971.0,1027.0)
+:Sending Touch (ACTION_UP): 0:(968.57874,1023.7169)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(892.0,864.0)
+:Sending Touch (ACTION_UP): 0:(900.66565,867.9591)
+:Sending Touch (ACTION_DOWN): 0:(815.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(809.49927,1319.9258)
+:Sending Touch (ACTION_DOWN): 0:(651.0,527.0)
+:Sending Touch (ACTION_UP): 0:(659.29236,522.82635)
+:Sending Flip keyboardOpen=false
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(388.0,1603.0)
+:Sending Touch (ACTION_UP): 0:(388.1962,1598.5342)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    //[calendar_time:2017-10-02 04:28:36.178  system_uptime:282491]
+    // Sending event #9100
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(935.0,717.0)
+:Sending Touch (ACTION_UP): 0:(919.6625,703.1676)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(742.0,332.0)
+:Sending Touch (ACTION_UP): 0:(727.5056,334.61618)
+:Sending Touch (ACTION_DOWN): 0:(264.0,1336.0)
+:Sending Touch (ACTION_UP): 0:(295.07065,1369.1694)
+:Sending Touch (ACTION_DOWN): 0:(535.0,1004.0)
+:Sending Touch (ACTION_UP): 0:(528.982,1002.5773)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+    //[calendar_time:2017-10-02 04:28:36.799  system_uptime:283108]
+    // Sending event #9200
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(504.0,1024.0)
+:Sending Touch (ACTION_UP): 0:(509.42874,1023.7046)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(343.0,120.0)
+:Sending Touch (ACTION_UP): 0:(333.04327,126.460014)
+:Sending Touch (ACTION_DOWN): 0:(685.0,694.0)
+:Sending Touch (ACTION_UP): 0:(691.56104,694.08417)
+:Sending Touch (ACTION_DOWN): 0:(593.0,1473.0)
+:Sending Touch (ACTION_UP): 0:(622.33624,1411.8257)
+:Sending Touch (ACTION_DOWN): 0:(739.0,1143.0)
+:Sending Touch (ACTION_UP): 0:(736.3879,1141.701)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.gm/.ConversationListActivityGmail } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+    //[calendar_time:2017-10-02 04:28:37.511  system_uptime:283819]
+    // Sending event #9300
+:Sending Touch (ACTION_DOWN): 0:(447.0,648.0)
+:Sending Touch (ACTION_UP): 0:(453.06723,632.0772)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.ExpenseEdit } in package org.totschnig.myexpenses
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(272.0,184.0)
+:Sending Touch (ACTION_UP): 0:(283.72974,184.87361)
+:Sending Touch (ACTION_DOWN): 0:(399.0,771.0)
+:Sending Touch (ACTION_UP): 0:(384.59305,759.00665)
+    //[calendar_time:2017-10-02 04:28:38.598  system_uptime:284907]
+    // Sending event #9400
+    //[calendar_time:2017-10-02 04:28:38.599  system_uptime:284907]
+    // Sending event #9400
+:Sending Touch (ACTION_DOWN): 0:(809.0,596.0)
+:Sending Touch (ACTION_UP): 0:(849.03186,605.60425)
+:Sending Touch (ACTION_DOWN): 0:(586.0,1383.0)
+:Sending Touch (ACTION_UP): 0:(582.52466,1389.5696)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(965.0,246.0)
+:Sending Touch (ACTION_UP): 0:(967.99817,231.71303)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    //[calendar_time:2017-10-02 04:28:39.253  system_uptime:285562]
+    // Sending event #9500
+:Sending Touch (ACTION_DOWN): 0:(769.0,649.0)
+:Sending Touch (ACTION_UP): 0:(768.74176,653.55334)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(634.0,1109.0)
+:Sending Touch (ACTION_UP): 0:(612.6237,1120.4517)
+:Sending Touch (ACTION_DOWN): 0:(1053.0,524.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,456.4975)
+:Sending Touch (ACTION_DOWN): 0:(440.0,66.0)
+:Sending Touch (ACTION_UP): 0:(443.86905,60.83553)
+:Sending Touch (ACTION_DOWN): 0:(247.0,1395.0)
+:Sending Touch (ACTION_UP): 0:(218.5654,1340.0345)
+:Sending Touch (ACTION_DOWN): 0:(755.0,410.0)
+:Sending Touch (ACTION_UP): 0:(751.0439,409.14813)
+:Sending Touch (ACTION_DOWN): 0:(452.0,815.0)
+:Sending Touch (ACTION_UP): 0:(465.84406,826.1515)
+:Sending Touch (ACTION_DOWN): 0:(753.0,1497.0)
+:Sending Touch (ACTION_UP): 0:(762.8175,1501.2697)
+:Sending Touch (ACTION_DOWN): 0:(409.0,882.0)
+:Sending Touch (ACTION_UP): 0:(416.82236,884.24963)
+:Sending Touch (ACTION_DOWN): 0:(838.0,243.0)
+:Sending Touch (ACTION_UP): 0:(835.3663,259.94675)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1048.0,1416.0)
+:Sending Touch (ACTION_UP): 0:(1064.931,1376.7925)
+    //[calendar_time:2017-10-02 04:28:40.311  system_uptime:286619]
+    // Sending event #9600
+    //[calendar_time:2017-10-02 04:28:40.311  system_uptime:286620]
+    // Sending event #9600
+:Sending Touch (ACTION_DOWN): 0:(12.0,1720.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1714.399)
+:Sending Touch (ACTION_DOWN): 0:(735.0,1665.0)
+:Sending Touch (ACTION_UP): 0:(723.9363,1664.6045)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(987.0,969.0)
+:Sending Touch (ACTION_UP): 0:(988.87634,959.55133)
+:Sending Touch (ACTION_DOWN): 0:(563.0,1533.0)
+:Sending Touch (ACTION_UP): 0:(566.8461,1537.1777)
+:Sending Touch (ACTION_DOWN): 0:(823.0,775.0)
+:Sending Touch (ACTION_UP): 0:(816.8545,790.9994)
+:Sending Touch (ACTION_DOWN): 0:(323.0,1458.0)
+:Sending Touch (ACTION_UP): 0:(318.16745,1457.3312)
+    // Allowing start of Intent { cmp=org.totschnig.myexpenses/.activity.ManageCategories } in package org.totschnig.myexpenses
+:Sending Touch (ACTION_DOWN): 0:(378.0,50.0)
+:Sending Touch (ACTION_UP): 0:(254.15404,20.983189)
+:Sending Touch (ACTION_DOWN): 0:(963.0,113.0)
+    //[calendar_time:2017-10-02 04:28:41.368  system_uptime:287677]
+    // Sending event #9700
+:Sending Touch (ACTION_UP): 0:(931.6451,83.174545)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(799.0,1065.0)
+:Sending Touch (ACTION_UP): 0:(807.0867,1065.0056)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(396.0,764.0)
+:Sending Touch (ACTION_UP): 0:(396.35992,773.9183)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=org.totschnig.myexpenses/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=org.totschnig.myexpenses/.activity.SplashActivity } in package org.totschnig.myexpenses
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,968.0)
+:Sending Touch (ACTION_UP): 0:(1044.0619,971.12335)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(761.0,1533.0)
+:Sending Touch (ACTION_UP): 0:(762.82153,1532.518)
+:Sending Touch (ACTION_DOWN): 0:(813.0,584.0)
+    //[calendar_time:2017-10-02 04:28:42.084  system_uptime:288393]
+    // Sending event #9800
+:Sending Touch (ACTION_UP): 0:(822.1153,565.7164)
+:Sending Touch (ACTION_DOWN): 0:(969.0,1180.0)
+:Sending Touch (ACTION_UP): 0:(1009.34595,1122.6788)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(2.0,1514.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1512.054)
+:Sending Touch (ACTION_DOWN): 0:(813.0,1186.0)
+:Sending Touch (ACTION_UP): 0:(810.66296,1199.9258)
+:Sending Touch (ACTION_DOWN): 0:(120.0,521.0)
+:Sending Touch (ACTION_UP): 0:(129.49187,517.0017)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(271.0,1463.0)
+:Sending Touch (ACTION_UP): 0:(269.31244,1462.3906)
+:Sending Touch (ACTION_DOWN): 0:(658.0,190.0)
+:Sending Touch (ACTION_UP): 0:(652.5092,194.88734)
+:Sending Touch (ACTION_DOWN): 0:(181.0,1568.0)
+:Sending Touch (ACTION_UP): 0:(176.03998,1618.6722)
+:Sending Touch (ACTION_DOWN): 0:(801.0,1062.0)
+:Sending Touch (ACTION_UP): 0:(777.65533,1032.6744)
+:Sending Touch (ACTION_DOWN): 0:(699.0,400.0)
+:Sending Touch (ACTION_UP): 0:(660.6592,358.17624)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+    //[calendar_time:2017-10-02 04:28:42.747  system_uptime:289056]
+    // Sending event #9900
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(131.0,1699.0)
+:Sending Touch (ACTION_UP): 0:(104.37825,1676.434)
+:Sending Touch (ACTION_DOWN): 0:(880.0,1399.0)
+:Sending Touch (ACTION_UP): 0:(908.3332,1423.1962)
+:Sending Touch (ACTION_DOWN): 0:(426.0,725.0)
+:Sending Touch (ACTION_UP): 0:(426.7979,738.7899)
+:Sending Touch (ACTION_DOWN): 0:(279.0,1741.0)
+:Sending Touch (ACTION_UP): 0:(278.74014,1720.561)
+:Sending Touch (ACTION_DOWN): 0:(711.0,1770.0)
+:Sending Touch (ACTION_UP): 0:(667.3873,1692.7357)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(484.0,209.0)
+:Sending Touch (ACTION_UP): 0:(485.41287,212.29613)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(966.0,327.0)
+:Sending Touch (ACTION_UP): 0:(963.6423,316.03156)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(893.0,524.0)
+Events injected: 10000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=8 pointers=13 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=89805ms (0ms mobile, 0ms wifi, 89805ms not connected)
+// Monkey finished
